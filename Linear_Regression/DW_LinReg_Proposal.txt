@@ -10,7 +10,7 @@ The MVP will at the very least use the following attributes:
 - Genre
 - Title Length
 
-And from them create a regression model with associated scores, etc.
+And from them create a regression model. 
 
 Other Attributes being considered:
 - Number of theatres on opening weekend
