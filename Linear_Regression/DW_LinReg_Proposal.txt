@@ -1,0 +1,24 @@
+You are Roger Sherbert, famed movie director and obsessor of the IMDB scores of his films. He (you) has set out to game the system itself, and create a model such that he (you) is able to predict the eventual IMDB score/public reception of his projects. 
+
+He plans to scrape directly from the IMDB website (potentially in conjunction with Box Office Mojo for additional information (TBD, unclear what the intersections of the two websites are)) to find attributes that will be helpful in his model (examples include: budget, # of theatres on opening weekend (potentially), genre, runtime, etc.)
+
+Roger plans to scrape with Beautiful Soup in conjunction with Selenium (for the navigation), manipulating/cleaning/exploring with Pandas Dataframes, local storage in a SQL database for ease of access, and visualisation with Seaborne and Matplotlib, and use SKlearn for the actual regression process.
+
+The MVP will at the very least use the following attributes:
+- Budget
+- Run Time
+- Genre
+- Title Length
+
+And from them create a regression model with associated scores, etc.
+
+Other Attributes being considered:
+- Number of theatres on opening weekend
+- Number of releases (total)
+- Box Office Earnings
+- Black/White or Color?
+- Season of Release? (Or maybe month)
+- Fiction or Non-fiction
+- MPAA (rating)
+
+
