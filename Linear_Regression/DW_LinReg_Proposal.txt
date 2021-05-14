@@ -21,4 +21,23 @@ Other Attributes being considered:
 - Fiction or Non-fiction
 - MPAA (rating)
 
+Ooh- can I potentially check to see if its in a series?
 
+Done so far:
+From IMBD:
+-Rating (score)
+-Budget
+-Run time (sorta)
+-Title (length by addendum)
+-Month of release (can do season if needed)
+- BW or color
+
+From box office mojo:
+- MPAA
+- Genre
+
+Missing:
+- Number of theatres on opening weekend
+- Number of releases (total)
+- Box Office Earnings
+- Fiction or Non-fiction
