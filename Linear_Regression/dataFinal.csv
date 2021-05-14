@@ -1,0 +1,999 @@
+BW or Color,Budget,Currency,Genre,MPAA,Month of Release,Rating,Runtime,Title,Year
+Color,25000000.0,$,Drama,R,September,9.3,142,The Shawshank Redemption,1994
+Color,6000000.0,$,CrimeDrama,,March,9.2,175,The Godfather,1972
+Color,150000000.0,INR,Drama,,November,9.1,153,Soorarai Pottru,2020
+Color,185000000.0,$,ActionCrimeDramaThriller,PG-13,July,9.0,152,The Dark Knight,2008
+Color,13000000.0,$,CrimeDrama,,November,9.0,220,The Godfather: Part II,1974
+Black and White,350000.0,$,CrimeDrama,,April,9.0,96,12 Angry Men,1957
+Color,94000000.0,$,ActionAdventureDramaFantasy,PG-13,December,8.9,192,The Lord of the Rings: The Return of the King,2003
+Color,8000000.0,$,CrimeDrama,R,October,8.9,178,Pulp Fiction,1994
+Black and White,22000000.0,$,BiographyDramaHistory,R,December,8.9,185,Schindler's List,1993
+Color,160000000.0,$,ActionAdventureSci-FiThriller,PG-13,July,8.8,148,Inception,2010
+Color,63000000.0,$,Drama,R,October,8.8,151,Fight Club,1999
+Color,93000000.0,$,ActionAdventureDramaFantasy,PG-13,December,8.8,171,The Lord of the Rings: The Fellowship of the Ring,2001
+Color,55000000.0,$,DramaRomance,PG-13,July,8.8,142,Forrest Gump,1994
+Color,1200000.0,$,Western,,December,8.8,142,"The Good, the Bad and the Ugly",1966
+Color,94000000.0,$,ActionAdventureDramaFantasy,PG-13,December,8.7,172,The Lord of the Rings: The Two Towers,2002
+Color,63000000.0,$,ActionSci-Fi,R,April,8.7,136,The Matrix,1999
+Color,25000000.0,$,BiographyCrimeDrama,,September,8.7,146,Goodfellas,1990
+Color,18000000.0,$,ActionAdventureFantasySci-Fi,PG,May,8.7,127,Star Wars: Episode V - The Empire Strikes Back,1980
+Color,3000000.0,$,Drama,,November,8.7,133,One Flew Over the Cuckoo's Nest,1975
+Color,11400000.0,$,ComedyDramaThriller,R,October,8.6,132,Parasite,2019
+Color,165000000.0,$,AdventureDramaSci-Fi,PG-13,November,8.6,169,Interstellar,2014
+Color,3300000.0,BRL,CrimeDrama,R,January,8.6,135,City of God,2002
+Color,19000000.0,$,AdventureAnimationFamilyFantasyMystery,PG,September,8.6,125,Spirited Away,2001
+Color,70000000.0,$,DramaWar,R,July,8.6,169,Saving Private Ryan,1998
+Color,60000000.0,$,CrimeDramaFantasyMystery,R,December,8.6,114,The Green Mile,1999
+Color,20000000.0,$,ComedyDramaRomanceWar,PG-13,October,8.6,122,Life Is Beautiful,1997
+Color,33000000.0,$,CrimeDramaMysteryThriller,R,September,8.6,127,Se7en,1995
+Color,19000000.0,$,CrimeDramaThriller,,February,8.6,138,The Silence of the Lambs,1991
+Color,11000000.0,$,ActionAdventureFantasySci-Fi,PG,May,8.6,125,Star Wars: Episode IV - A New Hope,1977
+Black and White,125000000.0,JPY,ActionAdventureDrama,,July,8.6,202,Seven Samurai,1954
+Black and White,3180000.0,$,DramaFamilyFantasy,PG,December,8.6,118,It's a Wonderful Life,1946
+Color,,,BiographyDramaHistoryMusical,PG-13,July,8.5,160,Hamilton,2020
+Color,,,ActionCrimeThriller,,October,8.5,152,Raatchasan,2018
+Color,3300000,$,DramaMusic,R,October,8.5,106,Whiplash,2014
+Color,9500000,EUR,BiographyComedyDrama,R,May,8.5,112,The Intouchables,2011
+Color,40000000,$,DramaMysterySci-FiThriller,PG-13,October,8.5,130,The Prestige,2006
+Color,90000000,$,CrimeDramaThriller,R,October,8.5,151,The Departed,2006
+Color,35000000,$,BiographyDramaMusicWar,R,December,8.5,150,The Pianist,2002
+Color,103000000,$,ActionAdventureDrama,R,May,8.5,171,Gladiator,2000
+Color,20000000,$,Drama,R,November,8.5,101,American History X,1998
+Color,6000000,$,CrimeMysteryThriller,R,August,8.5,106,The Usual Suspects,1995
+Color,115000000,FRF,ActionCrimeDramaThriller,R,November,8.5,133,Léon: The Professional,1994
+Color,45000000,$,AdventureAnimationDramaFamilyMusical,G,June,8.5,73,The Lion King,1994
+Color,102000000,$,ActionSci-Fi,R,July,8.5,156,Terminator 2: Judgment Day,1991
+Color,5000000,$,DramaRomance,R,February,8.5,123,Cinema Paradiso,1988
+Color,3700000,$,AnimationDramaWar,,August,8.5,89,Grave of the Fireflies,1988
+Color,19000000,$,AdventureComedySci-Fi,,July,8.5,116,Back to the Future,1985
+Color,5000000,$,Western,PG-13,July,8.5,145,Once Upon a Time in the West,1968
+Black and White,806947,$,HorrorMysteryThriller,R,September,8.5,108,Psycho,1960
+Color,1000000,$,MysteryThriller,PG,September,8.5,112,Rear Window,1954
+Black and White,950000,$,DramaRomanceWar,PG,April,8.5,82,Casablanca,1942
+Black and White,1500000,$,ComedyDramaFamilyRomance,,December,8.5,87,Modern Times,1936
+Black and White,1500000,$,ComedyDramaRomance,G,July,8.5,87,City Lights,1931
+Color,4000000,$,Drama,R,December,8.4,126,Capharnaüm,2018
+Color,55000000,$,CrimeDramaThriller,R,October,8.4,122,Joker,2019
+Color,,,BiographyDramaHistoryWar,,October,8.4,125,Ayla: The Daughter of War,2017
+Color,150000000,INR,ActionCrimeDramaThriller,,July,8.4,147,Vikram Vedha,2017
+Color,700000000,INR,ActionBiographyDramaSport,,December,8.4,140,Dangal,2016
+Color,90000000,$,ActionAdventureAnimationFamilySci-Fi,PG,December,8.4,143,Spider-Man: Into the Spider-Verse,2018
+Color,356000000,$,ActionAdventureDramaSci-Fi,PG-13,April,8.4,181,Avengers: Endgame,2019
+Color,321000000,$,ActionAdventureSci-Fi,PG-13,April,8.4,149,Avengers: Infinity War,2018
+Color,175000000,$,AdventureAnimationFamilyFantasyMusicMystery,PG,November,8.4,105,Coco,2017
+Color,100000000,$,DramaWestern,R,December,8.4,165,Django Unchained,2012
+Color,250000000,$,ActionAdventure,PG-13,July,8.4,164,The Dark Knight Rises,2012
+Color,550000000,INR,ComedyDrama,PG-13,December,8.4,170,3 Idiots,2009
+Color,,,DramaFamily,PG,December,8.4,165,Like Stars on Earth,2007
+Color,180000000,$,AdventureAnimationFamilyRomanceSci-Fi,,June,8.4,98,WALL·E,2008
+Color,2000000,$,DramaMysteryThriller,R,February,8.4,137,The Lives of Others,2006
+Color,3000000,$,ActionDramaMysteryThriller,R,March,8.4,120,Oldboy,2003
+Color,9000000,$,MysteryThriller,R,March,8.4,113,Memento,2000
+Color,2400000000,JPY,ActionAdventureAnimationFantasy,PG-13,October,8.4,134,Princess Mononoke,1997
+Color,30000000,$,CrimeDrama,R,June,8.4,250,Once Upon a Time in America,1984
+Color,18000000,$,ActionAdventure,PG,June,8.4,115,Indiana Jones and the Raiders of the Lost Ark,1981
+Color,19000000,$,DramaHorror,R,May,8.4,142,The Shining,1980
+Color,31500000,$,DramaMysteryWar,R,August,8.4,182,Apocalypse Now,1979
+Color,11000000,$,HorrorSci-Fi,R,May,8.4,116,Alien,1979
+Black and White,,,CrimeDramaMysteryThriller,,July,8.4,143,High and Low,1963
+Black and White,1800000,$,Comedy,PG,July,8.4,95,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964
+Black and White,3000000,$,CrimeDramaMysteryThriller,,February,8.4,116,Witness for the Prosecution,1957
+Black and White,935000,$,DramaWar,,December,8.4,88,Paths of Glory,1957
+Black and White,1752000,$,DramaFilm-Noir,,May,8.4,104,Sunset Blvd.,1950
+Black and White,2000000,$,ComedyDramaWar,,March,8.4,125,The Great Dictator,1940
+Color,,,ComedyDrama,,September,8.3,143,Chhichhore,2019
+Color,95000000,$,DramaThrillerWar,R,December,8.3,119,1917,2019
+Color,,,DramaFantasyHorrorThriller,,October,8.3,104,Tumbbad,2018
+Color,35000000,INR,CrimeDramaThriller,,December,8.3,,Drishyam,2013
+Color,3800000,$,Drama,R,July,8.3,115,The Hunt,2012
+Color,500000,$,Drama,PG-13,January,8.3,123,A Separation,2011
+Color,6800000,$,DramaMysteryWar,R,April,8.3,131,Incendies,2010
+Color,3600000,$,DramaWar,R,February,8.3,130,Dara of Jasenovac,2020
+Color,,,Drama,PG-13,February,8.3,97,The Father,2020
+Color,,,DramaFamily,,November,8.3,113,My Father and My Son,2005
+Color,70000000,$,AdventureDramaWar,R,August,8.3,153,Inglourious Basterds,2009
+Color,20000000,$,DramaRomanceSci-Fi,R,March,8.3,108,Eternal Sunshine of the Spotless Mind,2004
+Color,10000000,$,ComedyRomance,R,November,8.3,122,Amélie,2001
+Color,6000000,GBP,ComedyCrime,R,December,8.3,104,Snatch,2000
+Color,4500000,$,Drama,R,October,8.3,102,Requiem for a Dream,2000
+Color,15000000,$,Drama,R,September,8.3,122,American Beauty,1999
+Color,10000000,$,DramaRomance,R,December,8.3,126,Good Will Hunting,1997
+Color,180000,$,DramaFamilySport,PG,January,8.3,89,Children of Heaven,1997
+Color,30000000,$,AdventureAnimationComedyFamilyFantasy,,November,8.3,74,Toy Story,1995
+Color,72000000,$,BiographyDramaHistoryWar,R,May,8.3,225,Braveheart,1995
+Color,1200000,$,CrimeDramaThriller,R,October,8.3,99,Reservoir Dogs,1992
+Color,30000000,$,DramaWar,,June,8.3,116,Full Metal Jacket,1987
+Color,,,DramaThrillerWar,,February,8.3,105,Come and See,1985
+Color,18500000,$,ActionAdventureSci-FiThriller,R,July,8.3,154,Aliens,1986
+Color,18000000,$,BiographyDramaHistoryMusic,R,September,8.3,180,Amadeus,1984
+Color,25000000,$,CrimeDrama,,December,8.3,142,Scarface,1983
+Color,32500000,$,ActionAdventureFantasySci-Fi,PG,May,8.3,134,Star Wars: Episode VI - Return of the Jedi,1983
+Color,32000000,DEM,AdventureDramaThrillerWar,R,February,8.3,209,Das Boot,1981
+Color,1300000,$,CrimeDrama,,February,8.3,110,Taxi Driver,1976
+Color,5500000,$,ComedyCrimeDrama,,December,8.3,129,The Sting,1973
+Color,2200000,$,CrimeDramaSci-Fi,,February,8.3,136,A Clockwork Orange,1971
+Color,3000000,INR,DramaMusical,,March,8.3,122,Anand,1971
+Color,12000000,$,AdventureSci-Fi,,May,8.3,161,2001: A Space Odyssey,1968
+Black and White,2000000,$,CrimeDrama,,March,8.3,129,To Kill a Mockingbird,1962
+Color,15000000,$,AdventureBiographyDramaHistoryWar,,September,8.3,228,Lawrence of Arabia,1962
+Black and White,3000000,$,ComedyDramaRomance,,June,8.3,125,The Apartment,1960
+Color,3101000,$,AdventureMysteryThriller,,December,8.3,136,North by Northwest,1959
+Color,2479000,$,MysteryRomanceThriller,PG,March,8.3,129,Vertigo,1958
+Color,2540800,$,ComedyMusicalRomance,G,November,8.3,103,Singin' in the Rain,1952
+Black and White,,,Drama,,December,8.3,123,Ikiru,1952
+Black and White,133000,$,Drama,,October,8.3,89,Bicycle Thieves,1948
+Black and White,927262,$,CrimeDramaFilm-NoirMysteryThriller,,July,8.3,90,Double Indemnity,1944
+Black and White,839727,$,DramaMystery,PG,September,8.3,119,Citizen Kane,1941
+Black and White,,,CrimeMysteryThriller,,March,8.3,108,M,1931
+Black and White,6000000,DEM,DramaSci-Fi,,July,8.3,80,Metropolis,1927
+Black and White,250000,$,ComedyDramaFamily,,Taglines,8.3,58,The Kid,1921
+Color,450000000,INR,ActionDramaWar,,January,8.2,138,Uri: The Surgical Strike,2018
+Color,4500000,$,CrimeDramaMusicMysteryThriller,,October,8.2,139,Andhadhun,2018
+Color,,,ActionDrama,,December,8.2,156,K.G.F: Chapter 1,2018
+Color,23000000,$,BiographyComedyDramaMusic,PG-13,November,8.2,130,Green Book,2018
+Color,,,AnimationDramaFamilyRomance,,October,8.2,111,A Silent Voice: The Movie,2016
+,,,CrimeDramaMysteryThriller,,October,8.2,132,Talvar,2015
+Color,2500000000,INR,ActionDrama,,April,8.2,141,Baahubali 2: The Conclusion,2017
+Color,40000000,$,AdventureAnimationComedyFamily,PG,November,8.2,96,Klaus,2019
+Color,9400000,$,CrimeDramaMysteryThriller,,July,8.2,163,Drishyam,2015
+Color,,,AdventureComedyDrama,,March,8.2,146,Queen,2013
+Color,650000,EUR,DramaWar,,April,8.2,87,Tangerines,2013
+Color,,,BiographyDramaSport,,July,8.2,186,Bhaag Milkha Bhaag,2013
+Color,184000000,INR,ActionComedyCrimeDramaThriller,,June,8.2,321,Gangs of Wasseypur,2012
+Color,,,ActionBiographyCrimeSportThriller,,March,8.2,135,Paan Singh Tomar,2012
+Color,2000000,$,DramaMysteryRomanceThriller,R,April,8.2,129,The Secret in Their Eyes,2009
+Color,,,ActionAdventureFantasySci-Fi,R,Alternate,8.2,242,Zack Snyder's Justice League,2021
+Color,80000000,$,MysteryThriller,R,February,8.2,138,Shutter Island,2010
+Color,175000000,$,AdventureAnimationComedyFamily,PG,May,8.2,96,Up,2009
+Color,,,Drama,,October,8.2,132,Miracle in Cell No. 7,2019
+Color,100000000,$,BiographyCrimeDrama,R,December,8.2,240,The Wolf of Wall Street,2013
+Color,,,DramaFamilySport,,August,8.2,153,Chak De! India,2007
+Color,25000000,$,Drama,R,December,8.2,158,There Will Be Blood,2007
+Color,19000000,$,DramaFantasyWar,R,December,8.2,112,Pan's Labyrinth,2006
+Color,200000000,$,AdventureAnimationComedyFamilyFantasy,,June,8.2,103,Toy Story 3,2010
+Color,180000000,INR,Drama,,February,8.2,122,Black,2005
+Color,150000000,$,ActionAdventure,PG-13,June,8.2,140,Batman Begins,2005
+Color,,,Drama,,December,8.2,195,Swades,2004
+Color,13500000,EUR,BiographyDramaHistoryWar,R,February,8.2,178,Downfall,2004
+Color,24000000,$,AdventureAnimationFamilyFantasy,PG,June,8.2,119,Howl's Moving Castle,2004
+Color,58000000,$,BiographyDrama,PG-13,December,8.2,135,A Beautiful Mind,2001
+Color,,,ActionComedyCrimeDrama,,March,8.2,156,Hera Pheri,2000
+Color,960000,GBP,ActionComedyCrime,R,March,8.2,120,"Lock, Stock and Two Smoking Barrels",1998
+Color,35000000,$,CrimeDramaMysteryThriller,R,September,8.2,138,L.A. Confidential,1997
+Color,1200000,TRL,CrimeDramaThriller,,November,8.2,128,The Bandit,1996
+Color,60000000,$,CrimeDramaThriller,R,December,8.2,170,Heat,1995
+Color,52000000,$,CrimeDrama,R,November,8.2,178,Casino,1995
+Color,14400000,$,DramaWestern,R,August,8.2,130,Unforgiven,1992
+Color,48000000,$,ActionAdventure,PG-13,May,8.2,127,Indiana Jones and the Last Crusade,1989
+Color,,,ComedyCrimeDramaFantasy,,February,8.2,270,Time of the Gypsies,1988
+Color,3700000,$,AnimationFamilyFantasy,,September,8.2,86,My Neighbor Totoro,1988
+Color,28000000,$,ActionThriller,,July,8.2,132,Die Hard,1988
+Color,11500000,$,ActionDramaWar,,July,8.2,162,Ran,1985
+Black and White,18000000,$,BiographyDramaSport,,November,8.2,121,Raging Bull,1980
+Color,,,DramaMusic,,October,8.2,99,Autumn Sonata,1978
+Color,10000000,$,BiographyDramaHistoryWar,,July,8.2,177,The Message,1976
+Color,,,ActionAdventureComedyDramaMusicalThrillerWestern,,August,8.2,246,Sholay,1975
+Color,229575,GBP,AdventureComedyFantasy,,June,8.2,91,Monty Python and the Holy Grail,1975
+Color,6000000,$,DramaMysteryThriller,,June,8.2,130,Chinatown,1974
+Color,600000,$,Western,R,May,8.2,132,For a Few Dollars More,1965
+Color,4000000,$,AdventureDramaHistoryThrillerWar,,July,8.2,172,The Great Escape,1963
+Black and White,,,ActionDramaThriller,,July,8.2,110,Yojimbo,1961
+Black and White,3000000,$,DramaWar,,December,8.2,179,Judgment at Nuremberg,1961
+Black and White,2883848,$,ComedyMusicRomance,,Goofs,8.2,121,Some Like It Hot,1959
+Black and White,,,DramaRomance,,June,8.2,91,Wild Strawberries,1957
+Black and White,150000,$,DramaFantasyHistoryThriller,,October,8.2,96,The Seventh Seal,1957
+Color,1400000,$,CrimeThriller,,April,8.2,105,Dial M for Murder,1954
+Black and White,,,Drama,,March,8.2,136,Tokyo Story,1953
+Black and White,250000,$,CrimeDramaMystery,,July,8.2,88,Rashomon,1950
+Black and White,1400000,$,Drama,,October,8.2,138,All About Eve,1950
+Black and White,3000000,$,AdventureDramaWestern,,January,8.2,126,The Treasure of the Sierra Madre,1948
+Black and White,,,ComedyRomanceWar,,March,8.2,99,To Be or Not to Be,1942
+Black and White,923000,$,AdventureComedyDramaWestern,,Taglines,8.2,88,The Gold Rush,1925
+Black and White,,,ActionComedyRomance,,May,8.2,49,Sherlock Jr.,1924
+Color,,,DramaRomance,R,December,8.1,122,Portrait of a Lady on Fire,2019
+Color,,,DramaThriller,,September,8.1,136,Pink,2016
+Color,15000000,$,ComedyCrimeDrama,R,November,8.1,115,"Three Billboards Outside Ebbing, Missouri",2017
+Color,4000000,EUR,CrimeDramaMysteryThriller,,January,8.1,106,The Invisible Guest,2016
+Color,10000000000,KRW,DramaRomanceThriller,,October,8.1,168,The Handmaiden,2016
+Color,,,Drama,R,September,8.1,139,Mommy,2014
+Color,370000000,INR,ActionCrimeDramaThriller,,October,8.1,160,Haider,2014
+Color,97000000,$,ActionDramaSci-FiThriller,R,March,8.1,122,Logan,2017
+Color,13000000,$,DramaThriller,R,October,8.1,118,Room,2015
+Color,3300000,$,ComedyDramaThriller,R,February,8.1,122,Wild Tales,2014
+Color,,,AdventureAnimationComedyFamilyFantasyMusic,PG,December,8.1,100,Soul,2020
+Color,,,Drama,,June,8.1,196,Winter Sleep,2014
+Color,,,ComedyDramaMusicalSci-Fi,,December,8.1,153,PK,2014
+Color,,,ComedyDramaFantasy,,September,8.1,125,OMG: Oh My God!,2012
+Color,25000000,$,AdventureComedyCrime,R,March,8.1,99,The Grand Budapest Hotel,2014
+Color,61000000,$,DramaMysteryThriller,R,October,8.1,149,Gone Girl,2014
+Color,,,AnimationDramaFantasy,PG,July,8.1,117,Wolf Children,2012
+Color,40000000,$,BiographyDramaHistoryWar,R,November,8.1,139,Hacksaw Ridge,2016
+Color,175000000,$,AdventureAnimationComedyDramaFamilyFantasy,PG,June,8.1,95,Inside Out,2015
+Color,300000000,INR,ComedyDramaRomance,,September,8.1,151,Barfi!,2012
+Color,20000000,$,BiographyDramaHistory,R,October,8.1,134,12 Years a Slave,2013
+Color,38000000,$,ActionBiographyDramaSport,R,September,8.1,123,Rush,2013
+Color,97600000,$,ActionBiographyDramaSport,PG-13,November,8.1,152,Ford v Ferrari,2019
+Color,20000000,$,BiographyCrimeDrama,R,November,8.1,129,Spotlight,2015
+Color,5300000,EUR,AdventureAnimationDramaFamilyFantasy,PG,December,8.1,93,Song of the Sea,2014
+Color,,,MysteryThriller,,March,8.1,122,Kahaani,2012
+Color,,,Drama,,July,8.1,134,Udaan,2010
+Color,550000000,INR,ComedyDrama,,July,8.1,155,Zindagi Na Milegi Dobara,2011
+Color,46000000,$,CrimeDramaMysteryThriller,R,September,8.1,153,Prisoners,2013
+Color,150000000,$,ActionAdventureSci-FiThriller,R,May,8.1,120,Mad Max: Fury Road,2015
+Color,25000000,$,ActionDramaSport,PG-13,September,8.1,140,Warrior,2011
+Color,,,ActionCrimeDramaMysteryThriller,,September,8.1,104,A Wednesday,2008
+Color,33000000,$,Drama,R,December,8.1,116,Gran Torino,2008
+Color,125000000,$,AdventureDramaFantasyMystery,PG-13,July,8.1,130,Harry Potter and the Deathly Hallows: Part 2,2011
+Color,,,DramaMusic,PG-13,May,8.1,130,Departures,2008
+Color,16000000,$,BiographyDramaFamily,,March,8.1,93,Hachi: A Dog's Tale,2009
+Color,8240000,AUD,AnimationComedyDramaFamily,,March,8.1,92,Mary and Max,2009
+Color,165000000,$,ActionAdventureAnimationFamilyFantasy,PG,March,8.1,98,How to Train Your Dragon,2010
+Color,15000000,$,AdventureBiographyDrama,R,September,8.1,148,Into the Wild,2007
+Color,25000000,$,CrimeDramaThriller,R,November,8.1,122,No Country for Old Men,2007
+Color,54000000,$,ActionDramaSci-FiThriller,R,March,8.1,132,V for Vendetta,2005
+Color,,,Drama,PG-13,February,8.1,141,Nobody Knows,2004
+Color,,,ComedyCrimeDrama,,January,8.1,167,Rang De Basanti,2006
+Color,30000000,$,DramaSport,PG-13,December,8.1,132,Million Dollar Baby,2004
+Color,17500000,$,BiographyDramaHistoryWar,PG-13,December,8.1,121,Hotel Rwanda,2004
+Color,2700000,$,DramaRomance,R,July,8.1,80,Before Sunset,2004
+Color,,,ComedyDrama,,December,8.1,156,Munna Bhai M.B.B.S.,2003
+Color,2800000,$,CrimeDramaMysteryThriller,,July,8.1,127,Memories of Murder,2003
+Color,140000000,INR,ComedyDramaRomance,,August,8.1,183,Dil Chahta Hai,2001
+Color,30000000,$,ActionCrimeDramaThriller,R,October,8.1,111,Kill Bill: Vol. 1,2003
+Color,94000000,$,AdventureAnimationComedyFamily,,June,8.1,100,Finding Nemo,2003
+Color,52000000,$,BiographyCrimeDrama,PG-13,December,8.1,141,Catch Me If You Can,2002
+Color,2000000,$,DramaThriller,R,April,8.1,115,Amores Perros,2000
+Color,115000000,$,AdventureAnimationComedyFamilyFantasy,G,November,8.1,92,"Monsters, Inc.",2001
+Color,,,ActionAnimationDramaFantasySci-Fi,,,8.1,87,Neon Genesis Evangelion: The End of Evangelion,1997
+Color,250000000,INR,DramaMusicalSport,PG,June,8.1,224,Lagaan: Once Upon a Time in India,2001
+Color,40000000,$,DramaMysteryThriller,PG-13,August,8.1,107,The Sixth Sense,1999
+Color,1300000,$,Drama,R,June,8.1,105,The Celebration,1998
+Color,9000000,$,DramaMusicRomance,R,October,8.1,125,The Legend of 1900,1998
+Color,60000000,$,ComedyDrama,PG,June,8.1,103,The Truman Show,1998
+Color,,,ComedyCrimeRomance,R,June,8.1,127,"Crna macka, beli macor",1998
+Color,15000000,$,ComedyCrimeSport,R,March,8.1,117,The Big Lebowski,1998
+Color,,,DramaRomance,PG,February,8.1,98,In the Mood for Love,2000
+Color,1500000,GBP,Drama,R,July,8.1,105,Trainspotting,1996
+Color,7000000,$,CrimeDramaThriller,R,March,8.1,98,Fargo,1996
+Color,14000000,$,ComedyDramaFantasyWar,,June,8.1,320,Underground,1995
+Black and White,2590000,EUR,CrimeDrama,,February,8.1,98,La Haine,1995
+Color,40000000,INR,DramaRomance,,October,8.1,189,Dilwale Dulhania Le Jayenge,1995
+Color,2500000,$,DramaRomance,R,January,8.1,101,Before Sunrise,1995
+Color,,,DramaMysteryRomance,R,November,8.1,99,Three Colors: Red,1994
+Color,,,ComedyCrimeDramaMysteryRomance,PG-13,March,8.1,102,Chungking Express,1994
+Color,,,ActionComedyRomance,,November,8.1,160,Andaz Apna Apna,1994
+Color,63000000,$,ActionAdventureSci-FiThriller,PG-13,June,8.1,127,Jurassic Park,1993
+Color,13000000,$,BiographyCrimeDrama,R,January,8.1,133,In the Name of the Father,1993
+Color,4000000,$,DramaMusicRomance,R,October,8.1,155,Farewell My Concubine,1993
+Color,,,DramaHistoryRomance,,March,8.1,125,Raise the Red Lantern,1991
+Color,16400000,$,ComedyDrama,,June,8.1,140,Dead Poets Society,1989
+Color,16000000,$,AdventureFamilyFantasyRomance,,September,8.1,98,The Princess Bride,1987
+Color,8000000,$,AdventureDrama,,August,8.1,89,Stand by Me,1986
+Color,6000000,$,DramaWar,,December,8.1,120,Platoon,1986
+Color,,,Drama,,October,8.1,149,The Sacrifice,1986
+Color,1162000,GBP,Drama,,August,8.1,145,"Paris, Texas",1984
+Color,1000000,$,AdventureAnimationFantasySci-Fi,PG,November,8.1,95,Nausicaä of the Valley of the Wind,1984
+Color,15000000,$,HorrorMysterySci-Fi,,June,8.1,127,The Thing,1982
+Color,,,AdventureDrama,,October,8.1,158,Fitzcarraldo,1982
+Color,6000000,$,Drama,,December,8.1,312,Fanny and Alexander,1982
+Color,28000000,$,ActionSci-FiThriller,R,June,8.1,110,Blade Runner,1982
+Black and White,5000000,$,BiographyDrama,,October,8.1,124,The Elephant Man,1980
+Color,6000000,RUR,DramaSci-Fi,,September,8.1,162,Stalker,1979
+Color,4000000,$,Comedy,,August,8.1,94,Monty Python's Life of Brian,1979
+Color,15000000,$,DramaWar,,February,8.1,183,The Deer Hunter,1978
+Color,960000,$,DramaSport,,December,8.1,145,Rocky,1976
+Color,3800000,$,Drama,R,November,8.1,121,Network,1976
+Color,11000000,$,AdventureDramaHistoryWar,,December,8.1,185,Barry Lyndon,1975
+Color,622000,RUR,BiographyDrama,,September,8.1,107,Mirror,1975
+Black and White,2500000,$,ComedyCrimeDrama,,May,8.1,102,Paper Moon,1973
+Color,400000,$,Drama,,March,8.1,91,Cries & Whispers,1972
+Color,1000000,RUR,DramaMysterySci-Fi,,September,8.1,115,Solaris,1972
+Color,,,CrimeDramaMysteryThriller,,March,8.1,105,Le Samouraï,1967
+Color,3200000,$,CrimeDrama,,November,8.1,127,Cool Hand Luke,1967
+Black and White,,,DramaThriller,,March,8.1,85,Persona,1966
+Black and White,1000000,RUR,BiographyDramaHistory,,September,8.1,183,Andrei Rublev,1966
+Black and White,800000,$,DramaWar,,January,8.1,121,The Battle of Algiers,1966
+Black and White,,,DramaFantasy,,August,8.1,95,The Exterminating Angel,1962
+Black and White,980000,$,DramaHorrorThriller,,October,8.1,134,What Ever Happened to Baby Jane?,1962
+Black and White,,,ActionComedyCrimeDramaThriller,,July,8.1,96,Sanjuro,1962
+Black and White,3200000,$,DramaWestern,,April,8.1,113,The Man Who Shot Liberty Valance,1962
+Black and White,,,DramaWar,,September,8.1,95,Ivan's Childhood,1962
+Black and White,,,Drama,,November,8.1,89,The Virgin Spring,1960
+Black and White,,,BiographyDramaHistory,,August,8.1,128,Inherit the Wind,1960
+Black and White,,,CrimeDrama,,April,8.1,99,The 400 Blows,1959
+Color,15000000,$,AdventureDramaHistory,,April,8.1,222,Ben-Hur,1959
+Black and White,,,AdventureDrama,,July,8.1,110,The Hidden Fortress,1958
+Black and White,3400000,$,DramaFilm-Noir,,July,8.1,96,Sweet Smell of Success,1957
+Black and White,,,Drama,,July,8.1,117,Nights of Cabiria,1957
+Black and White,,,DramaHistory,,July,8.1,110,Throne of Blood,1957
+Color,3000000,$,AdventureDramaWar,PG,December,8.1,161,The Bridge on the River Kwai,1957
+Black and White,,,CrimeDramaThriller,,July,8.1,118,Rififi,1955
+Black and White,910000,$,CrimeDramaThriller,,Alternate,8.1,108,On the Waterfront,1954
+Black and White,,,CrimeDramaHorrorMysteryThriller,,November,8.1,117,Diabolique,1955
+Black and White,,,AdventureDramaThriller,,February,8.1,153,The Wages of Fear,1953
+Black and White,1800000,$,DramaFilm-Noir,,July,8.1,111,Ace in the Hole,1951
+Black and White,1300000,$,ActionCrimeDramaFilm-Noir,,Trivia,8.1,114,White Heat,1949
+Black and White,,,Film-NoirMysteryThriller,,May,8.1,104,The Third Man,1949
+Color,500000,GBP,DramaMusicRomance,,September,8.1,135,The Red Shoes,1948
+Black and White,2100000,$,DramaRomanceWar,,May,8.1,170,The Best Years of Our Lives,1946
+Black and White,,,ComedyDramaRomance,,Taglines,8.1,99,The Shop Around the Corner,1940
+Black and White,1288000,$,DramaMysteryRomanceThriller,,Taglines,8.1,130,Rebecca,1940
+Black and White,800000,$,DramaHistory,,March,8.1,108,The Grapes of Wrath,1940
+Black and White,1900000,$,ComedyDrama,,October,8.1,120,Mr. Smith Goes to Washington,1939
+Color,3977000,$,DramaHistoryRomanceWar,,June,8.1,226,Gone with the Wind,1939
+Black and White,,,DramaWar,,Taglines,8.1,94,La Grande Illusion,1937
+Black and White,325000,$,ComedyRomance,,February,8.1,65,It Happened One Night,1934
+Black and White,1200000,$,DramaWar,,Taglines,8.1,101,All Quiet on the Western Front,1930
+Black and White,,,BiographyDramaHistory,,November,8.1,60,The Passion of Joan of Arc,1928
+Black and White,900000,$,ComedyRomance,,Taglines,8.1,72,The Circus,1928
+Black and White,200000,$,DramaRomance,,Taglines,8.1,79,Sunrise,1927
+Black and White,750000,$,ActionAdventureComedyDramaWar,,January,8.1,78,The General,1926
+Black and White,18000,$,FantasyHorrorMysteryThriller,,February,8.1,73,The Cabinet of Dr. Caligari,1920
+Color,,,ComedyDrama,,October,8.0,124,Badhaai Ho,2018
+Color,,,AdventureBiographyDramaFamilyHistory,PG,December,8.0,113,Togo,2019
+Color,4400000,$,DramaHistory,,Trivia,8.0,119,Airlift,2016
+Color,,,ActionAdventureComedyDrama,,July,8.0,163,Bajrangi Bhaijaan,2015
+Color,,,ActionThriller,,January,8.0,159,Baby,2015
+Color,30000000,$,ComedyDramaMusicMusicalRomance,PG-13,December,8.0,128,La La Land,2016
+Color,12000000,$,BiographyDrama,PG-13,November,8.0,118,Lion,2016
+Color,108000000,$,AdventureDramaSci-Fi,PG-13,October,8.0,151,The Martian,2015
+Color,150000000,$,AdventureAnimationComedyCrimeFamilyMystery,PG,March,8.0,108,Zootopia,2016
+Color,18026148,$,ActionDrama,,July,8.0,159,Baahubali: The Beginning,2015
+Color,5000000000,JPY,AdventureAnimationDramaFamilyFantasy,PG,October,8.0,137,The Tale of The Princess Kaguya,2013
+Color,20000000,$,DramaFamily,PG,November,8.0,113,Wonder,2017
+Color,,,DramaMusicRomance,,February,8.0,154,Gully Boy,2019
+Color,,,CrimeDramaThriller,,February,8.0,144,Special 26,2013
+Color,,,Drama,R,August,8.0,96,Short Term 12,2013
+Color,4500000,$,ActionCrimeThriller,R,March,8.0,150,The Raid 2,2014
+Color,14000000,$,BiographyDramaThrillerWar,PG-13,November,8.0,114,The Imitation Game,2014
+Color,170000000,$,ActionAdventureComedySci-Fi,PG-13,August,8.0,121,Guardians of the Galaxy,2014
+Color,150000000,$,ActionDramaMysterySci-FiThriller,R,October,8.0,164,Blade Runner 2049,2017
+Color,23000000,$,DramaRomanceSci-Fi,R,December,8.0,126,Her,2013
+Color,135000000,$,ActionAdventureDramaHistoryWestern,R,December,8.0,156,The Revenant,2015
+Color,13000000,$,DramaRomance,PG-13,September,8.0,103,The Perks of Being a Wallflower,2012
+Color,,,ActionCrimeDramaThriller,,November,8.0,95,Elite Squad 2: The Enemy Within,2010
+Color,15000000,$,BiographyDramaHistory,R,November,8.0,118,The King's Speech,2010
+Color,25000000,$,Drama,PG-13,August,8.0,146,The Help,2011
+Color,58000000,$,ActionAdventureComedySci-Fi,R,February,8.0,108,Deadpool,2016
+Color,,,DramaMystery,,April,8.0,119,Darbareye Elly,2009
+Color,60000000,INR,DramaRomance,,February,8.0,144,Dev.D,2009
+Color,11715578,$,ActionBiographyDramaHistory,R,December,8.0,106,Yip Man,2008
+Color,12000000,$,Drama,PG-13,February,8.0,128,My Name Is Khan,2010
+Color,2000000,$,ActionDramaThrillerWar,,October,8.0,128,Nefes: Vatan Sagolsun,2009
+Color,15000000,$,DramaRomance,R,November,8.0,120,Slumdog Millionaire,2008
+Color,13000000,$,DramaThriller,R,December,8.0,108,Black Swan,2010
+Color,4000000,$,ActionCrimeDramaThriller,R,September,8.0,115,Elite Squad,2007
+Color,220000000,$,ActionAdventureSci-Fi,PG-13,May,8.0,173,The Avengers,2012
+Color,7300000,$,AnimationBiographyDramaHistoryWar,PG-13,December,8.0,89,Persepolis,2007
+Color,5000000,$,BiographyDrama,R,November,8.0,117,Dallas Buyers Club,2013
+Color,120000000,INR,ComedyDramaRomance,,September,8.0,144,Lage Raho Munna Bhai,2006
+Color,55000000,$,BiographyDrama,PG-13,December,8.0,117,The Pursuit of Happyness,2006
+Color,100000000,$,AdventureDramaThriller,R,December,8.0,143,Blood Diamond,2006
+Color,110000000,$,ActionMysteryThriller,PG-13,August,8.0,115,The Bourne Ultimatum,2007
+Color,1000000,$,CrimeDramaRomance,R,May,8.0,84,3-Iron,2004
+Black and White,40000000,$,CrimeThriller,R,April,8.0,147,Sin City,2005
+Color,,,BiographyDrama,PG-13,December,8.0,112,The Diving Bell and the Butterfly,2007
+Color,12800000,$,ActionDramaWar,R,September,8.0,148,Tae Guk Gi: The Brotherhood of War,2004
+Color,5000000,$,AdventureComedySci-Fi,,November,8.0,89,G.O.R.A.,2004
+Color,150000000,$,AdventureAnimationComedyFamilyFantasy,G,July,8.0,111,Ratatouille,2007
+Color,150000000,$,ActionAdventureThriller,PG-13,November,8.0,144,Casino Royale,2006
+Color,30000000,$,ActionCrimeThriller,R,April,8.0,137,Kill Bill: Vol. 2,2004
+Color,,,Drama,,February,8.0,99,The Return,2003
+Color,,,DramaRomance,R,April,8.0,103,"Spring, Summer, Fall, Winter... and Spring",2003
+Color,10000000,EUR,BiographyDrama,PG-13,December,8.0,126,The Sea Inside,2004
+Color,88000000,$,BiographyDramaHistoryRomanceSport,PG-13,June,8.0,144,Cinderella Man,2005
+Color,6428966,$,ActionCrimeDramaMysteryThriller,R,September,8.0,97,Infernal Affairs,2002
+Color,140000000,$,ActionAdventureFantasy,PG-13,July,8.0,143,Pirates of the Caribbean: The Curse of the Black Pearl,2003
+Color,70000000,$,AdventureDramaFantasyRomance,PG-13,December,8.0,125,Big Fish,2003
+Color,92000000,$,ActionAdventureAnimationFamily,,November,8.0,115,The Incredibles,2004
+Color,,,ComedyDramaRomance,,July,8.0,137,My Sassy Girl,2001
+Color,10000000,$,CrimeDrama,R,March,8.0,178,Dogville,2003
+Color,2500000,$,ComedyDrama,,February,8.0,110,Vizontele,2001
+Color,6000000,$,DramaMysterySci-FiThriller,R,October,8.0,134,Donnie Darko,2001
+Color,37000000,$,Drama,R,December,8.0,188,Magnolia,1999
+Color,12800000,$,CrimeDramaMusical,R,September,8.0,140,Dancer in the Dark,2000
+Color,10000000,$,BiographyDrama,,October,8.0,112,The Straight Story,1999
+Color,3000000,JPY,AnimationCrimeMysteryThriller,R,August,8.0,76,Perfect Blue,1997
+Color,2900000,$,Drama,R,November,8.0,110,Central Station,1998
+Color,70000000,$,ActionAdventureAnimationComedyDramaFamilySci-Fi,PG,August,8.0,90,The Iron Giant,1999
+Color,1000000,$,Drama,R,December,8.0,148,Sling Blade,1996
+Color,4500000,$,ComedyDrama,R,September,8.0,136,Secrets & Lies,1996
+Color,29000001,$,MysterySci-FiThriller,R,January,8.0,129,12 Monkeys,1995
+Color,600000000,JPY,ActionAnimationCrimeDramaMysterySci-FiThriller,,February,8.0,83,Ghost in the Shell,1995
+Color,18000000,$,AnimationFamilyFantasyMusical,PG,October,8.0,76,The Nightmare Before Christmas,1993
+Color,14600000,$,ComedyFantasyRomance,PG,February,8.0,101,Groundhog Day,1993
+Color,35000000,$,CrimeDrama,R,May,8.0,330,"Blood In, Blood Out",1993
+Color,31000000,$,Drama,R,December,8.0,156,Scent of a Woman,1992
+Color,28000000,$,AdventureAnimationComedyFamilyFantasyMusicalRomance,,November,8.0,90,Aladdin,1992
+Color,40000000,$,DramaHistoryThriller,R,December,8.0,206,JFK,1991
+Color,25000000,$,AnimationFamilyFantasyMusicalRomance,,November,8.0,91,Beauty and the Beast,1991
+Color,22000000,$,AdventureDramaWestern,,November,8.0,236,Dances with Wolves,1990
+Color,6500000,$,ComedyDrama,,July,8.0,120,Do the Right Thing,1989
+Color,25000000,$,Drama,,December,8.0,133,Rain Man,1988
+Color,1100000000,JPY,ActionAnimationSci-FiThriller,R,January,8.0,124,Akira,1988
+Color,,,DramaFantasyRomance,,May,8.0,128,Wings of Desire,1987
+Color,,,DramaWar,,February,8.0,104,Au Revoir les Enfants,1987
+Color,3300000,$,AdventureAnimationDramaFamilyFantasySci-Fi,,November,8.0,125,Castle in the Sky,1986
+Color,6400000,$,ActionSci-Fi,,October,8.0,107,The Terminator,1984
+Color,12000000,$,DramaFantasyMusic,,September,8.0,95,Pink Floyd: The Wall,1982
+Color,22000000,$,BiographyDramaHistory,,December,8.0,191,Gandhi,1982
+Color,6000000,$,DramaHistoryWar,,October,8.0,152,Kagemusha,1980
+Color,,,ComedyDrama,,February,8.0,130,Being There,1979
+Color,4000000,$,ComedyRomance,,April,8.0,93,Annie Hall,1977
+Color,8500000,$,BiographyDramaHistoryThriller,,April,8.0,138,All the President's Men,1976
+Color,7000000,$,AdventureThriller,,June,8.0,130,Jaws,1975
+Color,1800000,$,BiographyCrimeDramaThriller,,December,8.0,131,Dog Day Afternoon,1975
+Black and White,2800000,$,Comedy,,December,8.0,106,Young Frankenstein,1974
+Color,12000000,$,BiographyCrimeDrama,R,December,8.0,151,Papillon,1973
+Color,11000000,$,Horror,R,September,8.0,132,The Exorcist,1973
+Color,,,MysteryThriller,,December,8.0,138,Sleuth,1972
+Black and White,1300000,$,DramaRomance,R,October,8.0,126,The Last Picture Show,1971
+Color,9000000,$,DramaFamilyMusicalRomance,,November,8.0,181,Fiddler on the Roof,1971
+Color,750000,$,Drama,,March,8.0,108,The Conformist,1970
+Color,6000000,$,BiographyCrimeDramaWestern,PG,September,8.0,110,Butch Cassidy and the Sundance Kid,1969
+Color,2300000,$,DramaHorror,,June,8.0,137,Rosemary's Baby,1968
+Color,5800000,$,AdventureSci-Fi,G,April,8.0,112,Planet of the Apes,1968
+Color,3000000,$,ComedyDramaRomance,PG,February,8.0,106,The Graduate,1967
+Black and White,7500000,$,Drama,,June,8.0,131,Who's Afraid of Virginia Woolf?,1966
+Color,8200000,$,BiographyDramaFamilyMusicalRomance,,September,8.0,138,The Sound of Music,1965
+Color,11000000,$,DramaRomanceWar,PG-13,December,8.0,200,Doctor Zhivago,1965
+Color,200000,$,ActionDramaWestern,R,January,8.0,99,A Fistful of Dollars,1964
+Black and White,,,Drama,,April,8.0,138,8½,1963
+Black and White,64000,$,Drama,,June,8.0,83,Vivre Sa Vie,1962
+Black and White,2000000,$,DramaSport,,September,8.0,134,The Hustler,1961
+Black and White,,,ComedyDrama,,April,8.0,180,La Dolce Vita,1960
+Color,,,ActionDramaWestern,,April,8.0,141,Rio Bravo,1959
+Black and White,,,CrimeDramaMysteryThriller,,July,8.0,141,Anatomy of a Murder,1959
+Black and White,829000,$,CrimeDramaFilm-NoirThriller,PG-13,September,8.0,111,Touch of Evil,1958
+Color,3000000,$,Drama,,August,8.0,108,Cat on a Hot Tin Roof,1958
+Black and White,320000,$,CrimeDramaFilm-NoirThriller,,June,8.0,84,The Killing,1956
+Black and White,795000,$,CrimeDramaFilm-NoirThriller,,November,8.0,92,The Night of the Hunter,1955
+Black and White,,,Drama,,July,8.0,108,La Strada,1954
+Black and White,1661530,$,ComedyDramaWar,,August,8.0,120,Stalag 17,1953
+Black and White,1500000,$,ComedyRomance,,September,8.0,117,Roman Holiday,1953
+Black and White,730000,$,DramaThrillerWestern,PG,July,8.0,85,High Noon,1952
+Black and White,1800000,$,Drama,PG,December,8.0,125,A Streetcar Named Desire,1951
+Black and White,1200000,$,CrimeFilm-NoirThriller,PG,June,8.0,103,Strangers on a Train,1951
+Black and White,,,DramaFilm-NoirMysteryRomanceThriller,,,8.0,94,In a Lonely Place,1950
+Black and White,,,ComedyCrime,,December,8.0,106,Kind Hearts and Coronets,1949
+Color,1500000,$,CrimeDramaMysteryThriller,,September,8.0,80,Rope,1948
+Black and White,,,CrimeDramaFilm-NoirRomanceThriller,,,8.0,97,Out of the Past,1947
+Black and White,2000000,$,DramaFilm-NoirRomanceThriller,,September,8.0,102,Notorious,1946
+Black and White,170000,GBP,DramaRomance,,August,8.0,86,Brief Encounter,1945
+Black and White,1020000,$,DramaFilm-NoirMystery,,,8.0,88,Laura,1944
+Black and White,1120175,$,ComedyCrimeThriller,,September,8.0,118,Arsenic and Old Lace,1943
+Black and White,375000,$,CrimeFilm-NoirMysteryRomance,,October,8.0,100,The Maltese Falcon,1941
+Color,2777000,$,AdventureFamilyFantasyMusical,PG,November,8.0,102,The Wizard of Oz,1939
+Black and White,5500500,FRF,ComedyDrama,,April,8.0,106,The Rules of the Game,1939
+Black and White,226408,$,ComedyCrimeMystery,,Taglines,8.0,91,The Thin Man,1934
+Black and White,,,DramaHistoryThrillerWar,,January,8.0,72,Battleship Potemkin,1925
+Color,40000000,$,ComedyCrimeDramaMysteryThriller,PG-13,December,7.9,130,Knives Out,2019
+Color,,,CrimeDrama,R,November,7.9,121,Shoplifters,2018
+Color,,,AdventureAnimationComedyFamilySci-Fi,PG,April,7.9,113,The Mitchells vs the Machines,2021
+Color,18600000,$,ComedyDramaRomance,R,December,7.9,137,Marriage Story,2019
+Color,4000000,EUR,DramaRomance,R,November,7.9,132,Call Me by Your Name,2017
+Color,,,Drama,R,June,7.9,100,"I, Daniel Blake",2016
+Color,,,AdventureAnimationComedyDramaFantasySci-Fi,PG-13,March,7.9,101,Isle of Dogs,2018
+Color,,,AdventureComedyDrama,PG-13,June,7.9,101,Hunt for the Wilderpeople,2016
+Color,,,BiographyDramaSport,,October,7.9,184,M.S. Dhoni: The Untold Story,2016
+Color,,,ComedyDrama,R,July,7.9,118,Captain Fantastic,2016
+Color,,,ComedyDramaMusicRomance,PG-13,April,7.9,106,Sing Street,2016
+Color,180000000,$,ActionAdventureComedyFantasySci-Fi,PG-13,November,7.9,130,Thor: Ragnarok,2017
+Color,14000000,$,ComedyDramaWar,PG-13,October,7.9,108,Jojo Rabbit,2019
+Color,47000000,$,DramaSci-Fi,PG-13,November,7.9,116,Arrival,2016
+Color,245000000,$,ActionAdventureSci-Fi,PG-13,December,7.9,138,Star Wars: Episode VII - The Force Awakens,2015
+Color,3000000,$,DramaRomance,R,May,7.9,109,Before Midnight,2013
+Color,200000000,$,ActionAdventureSci-FiThriller,PG-13,May,7.9,149,X-Men: Days of Future Past,2014
+Color,,,CrimeDrama,,January,7.9,157,Once Upon a Time in Anatolia,2011
+Color,52000000,$,BiographyDramaMusic,PG-13,November,7.9,134,Bohemian Rhapsody,2018
+Black and White,15000000,$,ComedyDramaRomance,PG-13,November,7.9,100,The Artist,2011
+Color,178000000,$,ActionAdventureSci-Fi,PG-13,June,7.9,113,Edge of Tomorrow,2014
+Color,8900000,$,Drama,PG-13,December,7.9,127,Amour,2012
+Color,13000000,$,CrimeDrama,R,February,7.9,155,A Prophet,2009
+Color,5000000,$,DramaMysterySci-Fi,R,June,7.9,97,Moon,2009
+Color,4000000,$,CrimeDramaFantasyHorrorRomance,R,October,7.9,114,Let the Right One In,2008
+Color,30000000,$,ActionSci-FiThriller,R,August,7.9,112,District 9,2009
+Color,6000000,$,DramaSport,R,December,7.9,109,The Wrestler,2008
+Color,170000000,INR,ComedyDramaRomance,,October,7.9,138,Jab We Met,2007
+Color,4000000,$,Drama,R,July,7.9,165,Boyhood,2014
+Color,590000,EUR,Drama,,January,7.9,113,"4 Months, 3 Weeks and 2 Days",2007
+Color,150000000,$,ActionAdventureSci-Fi,PG-13,May,7.9,127,Star Trek,2009
+Color,15000000,$,ComedyCrimeDramaThriller,R,February,7.9,107,In Bruges,2008
+Color,200000,$,DramaFantasyMysterySci-Fi,,November,7.9,87,The Man from Earth,2007
+Color,19000000,$,ActionAdventureDramaHistoryWar,R,December,7.9,141,Letters from Iwo Jima,2006
+Color,30000000,$,AdventureDramaFantasy,R,May,7.9,117,The Fall,2006
+Color,120000000,$,AdventureDramaFantasy,PG,November,7.9,127,Life of Pi,2012
+Color,40000000,$,AdventureAnimationComedyCrimeDramaFamily,PG,November,7.9,87,Fantastic Mr. Fox,2009
+Color,6500000,CAD,ComedyDrama,,March,7.9,127,C.R.A.Z.Y.,2005
+Color,5500000,EUR,ComedyDramaMusic,PG-13,January,7.9,97,The Chorus,2004
+Color,140000000,$,ActionAdventureSci-Fi,PG-13,May,7.9,126,Iron Man,2008
+Color,4000000,GBP,ComedyHorror,R,September,7.9,99,Shaun of the Dead,2004
+Color,,,ComedyDramaMusicalRomance,,November,7.9,186,Kal Ho Naa Ho,2003
+Color,,,DramaRomance,R,January,7.9,121,Head-On,2004
+Color,25000000,$,CrimeDramaMysteryThriller,R,October,7.9,138,Mystic River,2003
+Color,130000000,$,AdventureFamilyFantasyMystery,PG,June,7.9,142,Harry Potter and the Prisoner of Azkaban,2004
+Color,31000000,$,ActionAdventureHistory,PG-13,August,7.9,94,Hero,2002
+Color,,,DramaMysteryRomance,R,November,7.9,104,Talk to Her,2002
+Color,2000000,EUR,ComedyDramaWar,R,December,7.9,90,No Man's Land,2001
+Color,,,ActionAnimationCrimeDramaSci-FiThriller,,April,7.9,115,Cowboy Bebop: The Movie,2001
+Color,60000000,$,ActionMysteryThriller,PG-13,June,7.9,119,The Bourne Identity,2002
+Color,1500000,$,CrimeDramaThriller,R,April,7.9,114,Nine Queens,2000
+Color,76000000,$,AdventureDramaSci-FiThriller,R,December,7.9,109,Children of Men,2006
+Color,,,Drama,R,November,7.9,101,All About My Mother,1999
+Color,60000000,$,AdventureComedyDramaMusic,R,September,7.9,152,Almost Famous,2000
+Color,15000000,$,DramaMysteryThriller,R,October,7.9,147,Mulholland Dr.,2001
+Color,60000000,$,AdventureAnimationComedyFamilyFantasy,PG,May,7.9,90,Shrek,2001
+Color,90000000,$,AdventureAnimationComedyFamilyFantasy,,November,7.9,82,Toy Story 2,1999
+Color,4300000,DEM,ActionComedyCrimeDrama,,August,7.9,87,Knockin' on Heaven's Door,1997
+Color,15000000,$,Drama,R,October,7.9,155,Boogie Nights,1997
+Color,,,AnimationDramaFamilyMusicRomance,,December,7.9,111,Whisper of the Heart,1995
+Color,,,CrimeDrama,R,March,7.9,102,Once Were Warriors,1994
+Color,13000000,$,CrimeDramaRomanceThriller,R,September,7.9,121,True Romance,1993
+Color,,,DramaMusicMysteryRomance,R,December,7.9,94,Three Colors: Blue,1993
+Color,,,ActionAdventureAnimationFantasyThriller,,June,7.9,94,Ninja Scroll,1993
+Color,30000000,$,CrimeDramaThriller,R,November,7.9,144,Carlito's Way,1993
+Color,20000000,$,DramaFantasyRomance,,December,7.9,105,Edward Scissorhands,1990
+Color,600000,GBP,BiographyDrama,,November,7.9,103,My Left Foot,1989
+Color,19000000,$,ComedyDrama,,October,7.9,104,Crimes and Misdemeanors,1989
+Color,25000000,$,CrimeDramaThriller,,June,7.9,119,The Untouchables,1987
+Color,6400000,$,ComedyDrama,,February,7.9,107,Hannah and Her Sisters,1986
+Color,15000000,$,DramaSci-Fi,R,December,7.9,142,Brazil,1985
+Color,2500000,$,ComedyMusic,,March,7.9,82,This Is Spinal Tap,1984
+Color,3300000,$,ComedyFamily,,November,7.9,93,A Christmas Story,1983
+Color,27000000,$,ActionAdventureComedyCrimeMusicMusical,,June,7.9,148,The Blues Brothers,1980
+Black and White,9000000,$,ComedyDramaRomance,,April,7.9,96,Manhattan,1979
+Color,12000000,$,DramaMusicMusical,,December,7.9,123,All That Jazz,1979
+Color,650000,$,HorrorThriller,,May,7.9,170,Dawn of the Dead,1978
+Color,750000,$,AdventureDramaFantasy,,January,7.9,114,The Holy Mountain,1973
+Color,,,ComedyDrama,,October,7.9,123,Amarcord,1973
+Color,800000,$,Comedy,,October,7.9,102,The Discreet Charm of the Bourgeoisie,1972
+Color,370000,$,ActionAdventureBiographyDramaHistory,,April,7.9,95,"Aguirre, the Wrath of God",1972
+Color,1200000,$,ComedyDramaRomance,,December,7.9,91,Harold and Maude,1971
+Color,12000000,$,BiographyDramaWar,PG,April,7.9,172,Patton,1970
+Color,6244087,$,ActionAdventureWestern,,June,7.9,145,The Wild Bunch,1969
+Black and White,114000,$,HorrorThriller,,October,7.9,85,Night of the Living Dead,1968
+Color,4000000,$,BiographyDramaHistory,,December,7.9,137,The Lion in Winter,1968
+Color,2000000,$,CrimeDramaMysteryThriller,,August,7.9,110,In the Heat of the Night,1967
+Color,3000000,$,ComedyMysteryRomanceThriller,,December,7.9,113,Charade,1963
+Black and White,2200000,$,DramaThriller,PG-13,February,7.9,126,The Manchurian Candidate,1962
+Color,12000000,$,AdventureBiographyDramaHistoryWar,,April,7.9,184,Spartacus,1960
+Black and White,,,DramaMysteryRomance,,March,7.9,102,L'Avventura,1960
+Black and White,,,DramaRomance,,October,7.9,90,Hiroshima Mon Amour,1959
+Color,13282712,$,AdventureDrama,,October,7.9,231,The Ten Commandments,1956
+Color,3750000,$,AdventureDramaWestern,,May,7.9,119,The Searchers,1956
+Color,,,Drama,PG,April,7.9,118,East of Eden,1955
+Black and White,,,ComedyDramaFantasy,,December,7.9,111,Harvey,1950
+Black and White,,,ComedyDramaFamily,,July,7.9,101,Miracle on 34th Street,1947
+Black and White,250000,$,CrimeFilm-NoirMysteryThriller,,August,7.9,116,The Big Sleep,1946
+Black and White,1250000,$,DramaFilm-Noir,,,7.9,101,The Lost Weekend,1945
+Black and White,,,ComedyRomance,,February,7.9,112,The Philadelphia Story,1940
+Black and White,,,ComedyDramaRomance,,January,7.9,92,His Girl Friday,1940
+Black and White,392000,$,AdventureDramaWestern,,March,7.9,96,Stagecoach,1939
+Black and White,1073000,$,ComedyFamilyRomance,,February,7.9,102,Bringing Up Baby,1938
+Color,1900000,$,ActionAdventureRomance,PG,May,7.9,102,The Adventures of Robin Hood,1938
+Black and White,,,ComedyMusicMusical,,Taglines,7.9,91,A Night at the Opera,1935
+Black and White,670000,$,AdventureHorrorSci-Fi,,April,7.9,125,King Kong,1933
+Black and White,310607,$,DramaHorror,,February,7.9,64,Freaks,1932
+Black and White,,,FantasyHorror,,Alternate,7.9,84,Nosferatu,1922
+Color,22000000,$,ActionComedyCrime,R,January,7.8,113,The Gentlemen,2019
+Color,300000000,INR,ActionDramaThriller,,May,7.8,138,Raazi,2018
+Color,,,DramaMusic,R,December,7.8,130,Sound of Metal,2019
+Color,,,Drama,PG-13,January,7.8,124,The Salesman,2016
+Color,100000000,$,ActionDramaHistoryThrillerWar,PG-13,July,7.8,106,Dunkirk,2017
+Color,,,ComedyDrama,,February,7.8,96,Perfect Strangers,2016
+Color,25000000,$,BiographyDramaHistory,PG,December,7.8,127,Hidden Figures,2016
+Color,40000000,$,AdventureAnimationComedyFamilyFantasy,PG,January,7.8,103,Paddington 2,2017
+Color,5900000,$,ActionCrimeDrama,,June,7.8,148,Udta Punjab,2016
+Color,60000000,$,ActionAdventureAnimationFamilyFantasy,PG,August,7.8,101,Kubo and the Two Strings,2016
+Color,9000000,$,Drama,R,November,7.8,137,Manchester by the Sea,2016
+Color,35500000,DKK,DramaHistoryWar,R,December,7.8,100,Land of Mine,2015
+Color,200000000,$,ActionAdventureSci-Fi,PG-13,December,7.8,133,Rogue One: A Star Wars Story,2016
+Color,250000000,$,ActionAdventureSci-Fi,PG-13,May,7.8,147,Captain America: Civil War,2016
+Color,44000000,$,CrimeDramaMysteryThrillerWestern,R,December,7.8,213,The Hateful Eight,2015
+Color,40000000,$,DramaRomance,PG,December,7.8,135,Little Women,2019
+Color,5000000,EUR,AnimationBiographyCrimeDramaMystery,PG-13,September,7.8,94,Loving Vincent,2017
+Color,,,BiographyComedyDramaHistoryRomance,R,September,7.8,119,Pride,2014
+Color,8500000,$,CrimeDramaThriller,R,November,7.8,117,Nightcrawler,2014
+Color,9200000,EUR,Drama,,November,7.8,174,The Great Beauty,2013
+Color,1000000,$,DramaRomance,PG,March,7.8,104,The Lunchbox,2013
+Color,,,ComedyRomance,,April,7.8,126,Vicky Donor,2012
+Color,165000000,$,ActionAdventureAnimationFamilySci-Fi,PG,November,7.8,102,Big Hero 6,2014
+Color,,,DramaSport,,February,7.8,130,Kai Po Che,2013
+Color,12000000,$,ComedyDramaFantasyRomanceSci-Fi,R,November,7.8,123,About Time,2013
+Color,,,ComedyDramaFamily,,October,7.8,134,English Vinglish,2012
+Color,30000000,$,AnimationBiographyDramaHistoryRomanceWar,PG-13,February,7.8,126,The Wind Rises,2013
+Color,13500000,EUR,CrimeDramaMysteryRomance,R,January,7.8,131,The Best Offer,2013
+Color,16000000,$,ComedyDramaRomance,PG-13,May,7.8,94,Moonrise Kingdom,2012
+Color,145000000,$,ActionAdventureAnimationFamilyFantasy,PG,June,7.8,102,How to Train Your Dragon 2,2014
+Color,28000000,$,BiographyComedyDramaHistory,R,December,7.8,130,The Big Short,2015
+Color,,,ActionCrimeDramaHorrorThriller,,March,7.8,144,I Saw the Devil,2010
+Color,90000000,$,CrimeDramaMysteryThriller,R,December,7.8,158,The Girl with the Dragon Tattoo,2011
+Color,55000000,$,AdventureBiographyCrimeDramaThriller,PG-13,October,7.8,134,Captain Phillips,2013
+Color,,,ActionCrimeDramaThriller,R,October,7.8,119,The Man from Nowhere,2010
+Color,28000000,$,BiographyDramaHistoryMusic,R,August,7.8,167,Straight Outta Compton,2015
+Color,159000000,$,BiographyCrimeDrama,R,November,7.8,209,The Irishman,2019
+Color,5000000,$,CrimeDramaMysteryThriller,R,March,7.8,129,Mother,2009
+Color,2650000,$,ActionCrimeThriller,,February,7.8,125,The Chaser,2008
+Color,225000000,$,AdventureFantasy,PG-13,December,7.8,186,The Hobbit: The Desolation of Smaug,2013
+Black and White,18000000,$,DramaHistoryMysteryThriller,R,January,7.8,144,The White Ribbon,2009
+Color,13000000,$,CrimeDramaMysteryThriller,R,March,7.8,186,The Girl with the Dragon Tattoo,2009
+Color,35000000,$,DramaHistoryThriller,R,October,7.8,129,The Trial of the Chicago 7,2020
+Color,,,ComedyDrama,,December,7.8,117,Another Round,2020
+Color,25000000,$,BiographyDramaSport,R,December,7.8,116,The Fighter,2010
+Color,25000000,$,ActionCrimeThriller,PG-13,February,7.8,93,Taken,2008
+Color,12500000,$,DramaHistoryWar,PG-13,November,7.8,94,The Boy in the Striped Pajamas,2008
+Color,150000,$,DramaMusicRomance,R,May,7.8,86,Once,2007
+Color,180000000,$,AdventureFantasy,PG-13,December,7.8,182,The Hobbit: An Unexpected Journey,2012
+Color,,,Drama,,May,7.8,122,The Edge of Heaven,2007
+Color,30000000,$,DramaMysteryRomanceWar,R,December,7.8,123,Atonement,2007
+Color,15000000,$,CrimeDrama,R,September,7.8,100,Drive,2011
+Color,100000000,$,BiographyCrimeDrama,R,November,7.8,176,American Gangster,2007
+Color,237000000,$,ActionAdventureFantasySci-Fi,PG-13,December,7.8,178,Avatar,2009
+Color,47000000,$,DramaFantasyRomanceSci-Fi,R,November,7.8,157,Mr. Nobody,2009
+Color,40000000,$,ActionAdventureDramaThriller,R,December,7.8,139,Apocalypto,2006
+Color,8000000,$,ComedyDrama,R,July,7.8,101,Little Miss Sunshine,2006
+Color,8000000,GBP,ActionComedyMysteryThriller,R,April,7.8,121,Hot Fuzz,2007
+Color,150000000,$,DramaFantasyRomance,PG-13,December,7.8,166,The Curious Case of Benjamin Button,2008
+Color,7000000,$,DramaFamilyMusicalRomance,,November,7.8,192,Veer-Zaara,2004
+Color,,,ComedyCrimeDrama,R,March,7.8,94,Adam's Apples,2005
+Color,28000000,$,DramaRomance,PG,November,7.8,135,Pride & Prejudice,2005
+Color,25000000,$,BiographyDramaSport,PG-13,March,7.8,127,The World's Fastest Indian,2005
+Color,,,AdventureAnimationComedyDrama,PG-13,January,7.8,90,Tokyo Godfathers,2003
+Color,39000000,$,ActionAdventureSci-FiThriller,PG-13,October,7.8,119,Serenity,2005
+Color,28000000,$,BiographyDramaMusicRomance,PG-13,November,7.8,153,Walk the Line,2005
+Color,22000000,SEK,Drama,,March,7.8,113,Evil,2003
+Color,29000000,$,DramaRomance,PG-13,June,7.8,123,The Notebook,2004
+Color,,,AdventureBiographyDrama,R,September,7.8,126,The Motorcycle Diaries,2004
+Color,,,CrimeDrama,R,April,7.8,109,Lilya 4-Ever,2002
+Color,9500000,$,AnimationComedyDrama,PG-13,November,7.8,80,The Triplets of Belleville,2003
+Color,,,ActionDramaThrillerWar,,September,7.8,110,Joint Security Area,2000
+Color,,,AnimationDramaFantasy,R,October,7.8,99,Waking Life,2001
+Color,30000000,$,BiographyDramaSport,PG,October,7.8,119,Remember the Titans,2000
+Color,17000000,$,ActionAdventureFantasyRomance,PG-13,December,7.8,120,"Crouching Tiger, Hidden Dragon",2000
+Color,90000000,$,AdventureDramaRomance,PG-13,December,7.8,143,Cast Away,2000
+Color,6000000,$,ActionCrimeThriller,R,January,7.8,102,The Boondock Saints,1999
+Color,90000000,$,BiographyDramaThriller,R,November,7.8,157,The Insider,1999
+Color,25000000,$,BiographyDramaFamily,PG,February,7.8,108,October Sky,1999
+Color,200000000,$,DramaRomance,PG-13,December,7.8,194,Titanic,1997
+Color,,,CrimeDramaRomanceThriller,,March,7.8,103,Fireworks,1997
+Color,36000000,$,DramaSci-FiThriller,PG-13,October,7.8,106,Gattaca,1997
+Color,50000000,$,DramaMysteryThriller,R,September,7.8,129,The Game,1997
+Color,,,Drama,R,November,7.8,153,Breaking the Waves,1996
+Black and White,18000000,$,BiographyComedyDrama,R,October,7.8,127,Ed Wood,1994
+Color,25000000,$,ActionBiographyDramaHistoryWestern,R,December,7.8,134,Tombstone,1993
+Color,,,ComedyDramaFamilySport,PG,April,7.8,101,The Sandlot,1993
+Color,15000000,$,DramaRomance,PG,November,7.8,134,The Remains of the Day,1993
+Color,,,ComedyDrama,,December,7.8,132,Naked,1993
+Color,44000000,$,ActionCrimeDramaMysteryThriller,PG-13,August,7.8,130,The Fugitive,1993
+Color,22000000,$,CrimeDramaRomance,R,October,7.8,121,A Bronx Tale,1993
+Color,6000000,$,ActionAnimationCrimeDramaMysteryRomanceThriller,PG,December,7.8,76,Batman: Mask of the Phantasm,1993
+Color,4500000,$,ActionCrimeThriller,R,April,7.8,149,Hard Boiled,1992
+Color,,,DramaFantasyMusicMysteryRomance,R,November,7.8,98,The Double Life of Véronique,1991
+Color,6500000,$,CrimeDrama,R,July,7.8,112,Boyz n the Hood,1991
+Color,20000000,$,DramaThriller,,December,7.8,107,Misery,1990
+Color,31000000,$,BiographyDrama,,December,7.8,121,Awakenings,1990
+Color,800000000,JPY,AdventureAnimationDramaFamilyFantasy,,July,7.8,103,Kiki's Delivery Service,1989
+Color,18000000,$,BiographyDramaHistoryWar,,December,7.8,122,Glory,1989
+Color,,,ActionCrimeDramaThriller,R,,7.8,124,The Killer,1989
+Color,40000000,$,AdventureComedySci-Fi,,November,7.8,108,Back to the Future Part II,1989
+Color,15000000,$,CrimeDramaHistoryMysteryThriller,,December,7.8,128,Mississippi Burning,1988
+Color,15000000,$,ActionAdventureSci-FiThriller,,June,7.8,107,Predator,1987
+Color,6000000,$,Comedy,,June,7.8,103,Ferris Bueller's Day Off,1986
+Color,19000000,$,AdventureComedyFamily,,June,7.8,94,The Goonies,1985
+Color,15000000,$,Drama,,December,7.8,154,The Color Purple,1985
+Color,1000000,$,ComedyDrama,,February,7.8,97,The Breakfast Club,1985
+Color,14400000,$,BiographyDramaHistoryWar,,November,7.8,141,The Killing Fields,1984
+Color,30000000,$,ActionComedyFantasySci-Fi,,June,7.8,105,Ghostbusters,1984
+Color,27000000,$,AdventureBiographyDramaHistory,,October,7.8,153,The Right Stuff,1983
+Color,20000000,$,ComedyCrimeDramaThriller,,February,7.8,109,The King of Comedy,1982
+Color,10500000,$,FamilySci-Fi,PG,June,7.8,120,E.T. the Extra-Terrestrial,1982
+Color,8000000,$,Drama,PG,December,7.8,105,Kramer vs. Kramer,1979
+Color,3000000,$,DramaRomance,,October,7.8,94,Days of Heaven,1978
+Color,3700000,$,Western,,June,7.8,135,The Outlaw Josey Wales,1976
+Color,8000000,$,AdventureHistoryWar,,December,7.8,129,The Man Who Would Be King,1975
+Color,1600000,$,DramaMysteryThriller,,April,7.8,113,The Conversation,1974
+Color,,,AnimationSci-Fi,,December,7.8,72,Fantastic Planet,1973
+Color,,,CrimeDramaThriller,,July,7.8,143,The Day of the Jackal,1973
+Color,450000,$,ActionCrimeDrama,,January,7.8,94,Badlands,1973
+Color,4600000,$,DramaMusicMusical,,February,7.8,124,Cabaret,1972
+Color,3000000,$,FamilyFantasyMusical,,September,7.8,89,Willy Wonka & the Chocolate Factory,1971
+Color,3600000,$,Drama,,May,7.8,113,Midnight Cowboy,1969
+Color,3000000,$,Thriller,,December,7.8,108,Wait Until Dark,1967
+Color,4000000,$,ComedyDrama,,December,7.8,108,Guess Who's Coming to Dinner,1967
+Color,2500000,$,ActionBiographyCrimeDrama,R,August,7.8,111,Bonnie and Clyde,1967
+Color,17000000,$,DramaFamilyMusicalRomance,G,February,7.8,170,My Fair Lady,1964
+Color,6000000,$,ComedyFamilyFantasyMusical,G,June,7.8,139,Mary Poppins,1964
+Black and White,10000000,$,ActionDramaHistoryWar,,October,7.8,178,The Longest Day,1962
+Black and White,,,DramaRomance,,April,7.8,105,Jules and Jim,1962
+Black and White,430000,GBP,Horror,,December,7.8,100,The Innocents,1961
+Black and White,400000,FRF,CrimeDrama,,May,7.8,90,Breathless,1960
+Color,1750000,$,ComedyDramaRomance,,September,7.8,129,The Quiet Man,1952
+Color,1000000,$,AdventureDramaRomanceWar,PG,March,7.8,105,The African Queen,1951
+Black and White,3000000,$,ActionAdventureDramaRomanceWestern,,September,7.8,126,Red River,1948
+Black and White,,,ActionCrimeDramaFilm-NoirThriller,,July,7.8,100,Key Largo,1948
+Black and White,,,AdventureComedyFilm-NoirRomanceThrillerWar,,January,7.8,100,To Have and Have Not,1944
+Black and White,,,CrimeDramaMysteryThriller,,October,7.8,114,Gaslight,1944
+Black and White,,,Film-NoirThriller,,January,7.8,108,Shadow of a Doubt,1943
+Black and White,,,MysteryThriller,,November,7.8,96,The Lady Vanishes,1938
+Black and White,397024,$,DramaHorrorSci-Fi,,May,7.8,75,The Bride of Frankenstein,1935
+Black and White,,,ComedyMusicalWar,,November,7.8,69,Duck Soup,1933
+Black and White,,,ActionCrimeDramaFilm-NoirThriller,,Taglines,7.8,88,Scarface,1932
+Black and White,291000,$,DramaHorrorSci-FiThriller,,November,7.8,70,Frankenstein,1931
+Black and White,,,Drama,R,November,7.7,135,Roma,2018
+Color,,,DramaRomance,,October,7.7,104,God's Own Country,2017
+Color,110000000,$,ActionAdventureComedySci-Fi,R,May,7.7,118,Deadpool 2,2018
+Color,11000000,$,CrimeDramaMysteryThriller,R,August,7.7,107,Wind River,2017
+Color,4500000,$,HorrorMysteryThriller,R,February,7.7,104,Get Out,2017
+Color,178000000,$,ActionAdventureThriller,PG-13,July,7.7,147,Mission: Impossible - Fallout,2018
+Color,,,ComedyDramaRomance,PG-13,October,7.7,116,A Man Called Ove,2015
+Color,1600000,$,ComedyHorror,R,February,7.7,86,What We Do in the Shadows,2014
+Color,,,AnimationDramaFamilyMystery,PG,May,7.7,103,When Marnie Was There,2014
+Color,15000000,$,BiographyDramaRomance,PG-13,November,7.7,123,The Theory of Everything,2014
+Color,81000000,$,ActionAdventureComedyThriller,R,February,7.7,129,Kingsman: The Secret Service,2014
+Color,12000000,$,DramaRomance,PG-13,June,7.7,133,The Fault in Our Stars,2014
+Color,8000000,$,ComedyDrama,PG-13,June,7.7,105,Me and Earl and the Dying Girl,2015
+Color,18000000,$,ComedyDrama,R,October,7.7,119,Birdman or (The Unexpected Virtue of Ignorance),2014
+Color,11000000,$,DramaMystery,PG-13,December,7.7,130,The Past,2013
+Color,4000000,EUR,DramaRomance,NC-17,October,7.7,180,Blue Is the Warmest Colour,2013
+Color,,,DramaMusicRomance,,November,7.7,111,The Broken Circle Breakdown,2012
+Color,200000000,$,AdventureAnimationComedyFamilyFantasy,G,June,7.7,100,Toy Story 4,2019
+Color,170000000,$,ActionAdventureSci-FiThriller,PG-13,April,7.7,136,Captain America: The Winter Soldier,2014
+Color,10920000,$,DramaMusicRomance,,November,7.7,159,Rockstar,2011
+Black and White,12000000,$,AdventureComedyDrama,R,November,7.7,115,Nebraska,2013
+Color,165000000,$,AdventureAnimationComedyFamilyFantasy,PG,November,7.7,101,Wreck-It Ralph,2012
+Color,81200000,$,AdventureAnimationDramaFamilyFantasy,PG,February,7.7,108,The Little Prince,2015
+Color,,,Drama,,March,7.7,98,Detachment,2011
+Color,17000000,$,ComedyFantasyRomance,PG-13,May,7.7,94,Midnight in Paris,2011
+Color,,,DramaThriller,,June,7.7,106,Confessions,2010
+Color,60000000,$,ActionAdventureAnimationComedyFamilyFantasy,PG,February,7.7,100,The Lego Movie,2014
+Color,100000000,$,DramaSci-FiThriller,PG-13,October,7.7,91,Gravity,2013
+Color,190000000,$,ActionAdventureSci-Fi,PG-13,May,7.7,132,Star Trek Into Darkness,2013
+Color,6000000,$,DramaWar,,October,7.7,137,Beasts of No Nation,2015
+Color,40000000,$,BiographyDrama,PG-13,October,7.7,120,The Social Network,2010
+Color,160000000,$,ActionAdventureSci-Fi,PG-13,June,7.7,131,X: First Class,2011
+Color,35000000,$,Comedy,R,June,7.7,108,The Hangover,2009
+Color,200000000,$,ActionAdventureThriller,PG-13,November,7.7,143,Skyfall,2012
+Color,21000000,$,ComedyDramaRomance,R,November,7.7,122,Silver Linings Playbook,2012
+Color,44500000,$,BiographyDramaThriller,R,October,7.7,130,Argo,2012
+Color,7500000,$,ComedyDramaRomance,PG-13,July,7.7,95,500 Days of Summer,2009
+Color,150000000,GBP,AdventureFamilyFantasyMystery,PG-13,November,7.7,146,Harry Potter and the Deathly Hallows: Part 1,2010
+Color,34000000,$,AdventureAnimationComedyFamilyFantasy,,August,7.7,101,Ponyo,2008
+Color,25000000,$,BiographyDramaHistory,R,December,7.7,122,Frost/Nixon,2008
+Color,300000000,JPY,AnimationDramaFantasyMysterySci-FiThriller,R,May,7.7,90,Paprika,2006
+Color,55000000,$,BiographyCrimeDramaHistoryMysteryThriller,R,October,7.7,141,Changeling,2008
+Color,14000000,$,ComedyDramaRomance,PG,August,7.7,90,Flipped,2010
+Color,,,AdventureAnimationComedyDramaFamilyMysteryRomanceSci-Fi,,July,7.7,98,The Girl Who Leapt Through Time,2006
+Color,20000000,$,CrimeDramaFantasyMysteryThriller,,June,7.7,126,Death Note,2006
+Color,1500000,GBP,CrimeDrama,,July,7.7,101,This Is England,2006
+Color,15000000,$,DramaSci-FiThriller,R,April,7.7,108,Ex Machina,2014
+Color,,,Drama,R,April,7.7,120,After the Wedding,2006
+Color,6000000,$,BiographyDramaHistoryThriller,R,October,7.7,121,The Last King of Scotland,2006
+Color,65000000,$,CrimeDramaMysteryThriller,R,March,7.7,162,Zodiac,2007
+Color,27000000,$,CrimeDramaThriller,R,April,7.7,110,Lucky Number Slevin,2006
+Color,18151814,EUR,DramaHistoryMusicRomanceWar,PG-13,November,7.7,116,Joyeux Noel,2005
+Black and White,4500000,EUR,BiographyDramaMusic,R,October,7.7,122,Control,2007
+Color,260000000,$,AdventureAnimationComedyFamilyFantasyMusicalRomance,PG,November,7.7,100,Tangled,2010
+Color,21000000,$,DramaThrillerWar,R,April,7.7,145,Black Book,2006
+Color,14000000,$,DramaRomance,R,December,7.7,134,Brokeback Mountain,2005
+Color,55000000,$,ActionCrimeDramaWestern,R,September,7.7,122,3:10 to Yuma,2007
+Color,6500000,$,CrimeDramaThriller,R,May,7.7,115,Crash,2004
+Color,20000000,$,ActionComedyFantasy,R,April,7.7,99,Kung Fu Hustle,2004
+Color,75000000,$,ActionMysteryThriller,PG-13,July,7.7,108,The Bourne Supremacy,2004
+Color,5000000,$,DramaThriller,R,October,7.7,94,The Machinist,2004
+Color,40000000,$,BiographyDramaMusic,PG-13,October,7.7,178,Ray,2004
+Color,4000000,$,ComedyDrama,R,September,7.7,102,Lost in Translation,2003
+Color,150000000,$,AdventureFamilyFantasyMystery,PG-13,November,7.7,166,Harry Potter and the Goblet of Fire,2005
+Color,70000000,$,ActionCrimeDramaThriller,R,April,7.7,146,Man on Fire,2004
+Color,60000000,$,AnimationDramaFamilyFantasyThriller,PG,February,7.7,105,Coraline,2009
+Color,140000000,$,ActionDrama,R,December,7.7,154,The Last Samurai,2003
+Color,,,Drama,R,August,7.7,114,The Magdalene Sisters,2002
+Color,25000000,$,BiographyDramaFamily,PG,November,7.7,101,Finding Neverland,2004
+Color,4800000,EUR,ComedyDramaRomance,R,February,7.7,121,Good Bye Lenin!,2003
+Color,,,Drama,PG-13,November,7.7,105,In America,2002
+Color,19000000,$,ComedyDrama,R,December,7.7,81,Adaptation.,2002
+Color,92000000,$,DramaHistoryWar,R,December,7.7,152,Black Hawk Down,2001
+Color,80000000,$,CrimeDramaThriller,R,July,7.7,117,Road to Perdition,2002
+Color,,,DramaThriller,R,September,7.7,120,The Experiment,2001
+Color,5000000,$,DramaMusic,R,October,7.7,110,Billy Elliot,2000
+Color,6000000,$,ComedyDramaMusicMusical,R,July,7.7,95,Hedwig and the Angry Inch,2001
+Color,35000000,$,ActionAdventureDramaThriller,PG-13,January,7.7,131,The Count of Monte Cristo,2002
+Color,85000000,$,CrimeThriller,PG-13,December,7.7,116,Ocean's Eleven,2001
+Color,,,ActionAnimationFantasyHorrorSci-Fi,R,September,7.7,103,Vampire Hunter D: Bloodlust,2000
+Color,26000000,$,AdventureComedyCrimeMusic,PG-13,December,7.7,107,"O Brother, Where Art Thou?",2000
+Color,7000000,$,AdventureComedyDramaFantasy,R,September,7.7,116,Interstate 60: Episodes of the Road,2002
+Color,21000000,$,AnimationComedyFantasyMusical,R,July,7.7,81,"South Park: Bigger, Longer & Uncut",1999
+Color,10000000,$,Comedy,R,February,7.7,89,Office Space,1999
+Color,2200000,$,ComedyDrama,,October,7.7,134,Happiness,1998
+Color,45000000,$,CrimeDramaThriller,R,October,7.7,122,Training Day,2001
+Color,3500000,DEM,CrimeDramaThriller,R,June,7.7,81,Run Lola Run,1998
+Color,9000000,$,ComedyDramaRomance,R,December,7.7,93,Rushmore,1998
+Color,370000000,ESP,DramaMysterySci-FiThriller,R,April,7.7,119,Open Your Eyes,1997
+Color,13000000,$,ComedyDramaFantasy,R,October,7.7,113,Being John Malkovich,1999
+Color,,,Drama,,November,7.7,95,Taste of Cherry,1997
+Color,50000000,$,ComedyDramaRomance,PG-13,December,7.7,139,As Good as It Gets,1997
+Color,93000000,$,ActionAdventureSci-Fi,PG-13,May,7.7,126,The Fifth Element,1997
+Color,82000000,FRF,Comedy,PG-13,July,7.7,75,Le Dîner de Cons,1998
+Color,35000000,$,BiographyCrimeDrama,R,March,7.7,147,Donnie Brasco,1997
+Color,5500000,$,BiographyDramaMusicRomance,PG-13,November,7.7,105,Shine,1996
+Color,30000000,$,CrimeDramaMysteryThriller,R,April,7.7,129,Primal Fear,1996
+Color,18000000,$,Drama,PG-13,December,7.7,150,Hamlet,1996
+Color,16000000,$,DramaRomance,PG,December,7.7,136,Sense and Sensibility,1995
+Color,17000000,$,DramaFamilyFantasy,,May,7.7,97,A Little Princess,1995
+Color,,,ComedyCrimeDramaRomance,,January,7.7,99,Fallen Angels,1995
+Color,3000000,$,BiographyComedyDramaRomance,PG,June,7.7,114,Il Postino,1994
+Black and White,27000,$,Comedy,R,October,7.7,102,Clerks,1994
+Color,11000000,$,Drama,PG-13,December,7.7,118,What's Eating Gilbert Grape,1993
+Color,,,ComedyDrama,R,October,7.7,188,Short Cuts,1993
+Color,26000000,$,Drama,PG-13,December,7.7,125,Philadelphia,1993
+Color,12000000,$,ComedyDramaFamilyFantasyMusical,,December,7.7,89,The Muppet Christmas Carol,1992
+Color,33000000,$,BiographyDramaHistory,PG-13,November,7.7,202,Malcolm X,1992
+Color,40000000,$,ActionAdventureDramaRomanceWar,R,September,7.7,117,The Last of the Mohicans,1992
+Color,,,AdventureAnimationComedyFantasyRomance,PG,May,7.7,94,Porco Rosso,1992
+Color,12500000,$,CrimeDramaMystery,R,October,7.7,100,Glengarry Glen Ross,1992
+Color,41000000,$,DramaThriller,R,December,7.7,138,A Few Good Men,1992
+Color,3500000,$,ComedyDrama,R,May,7.7,129,Night on Earth,1991
+Color,11000000,$,Drama,,December,7.7,137,Fried Green Tomatoes,1991
+Color,9000000,$,ComedyDramaThriller,R,August,7.7,116,Barton Fink,1991
+Color,14000000,$,CrimeDramaThriller,,September,7.7,115,Miller's Crossing,1990
+Color,70000000,$,AdventureAnimationComedyCrimeFamilyFantasyMystery,,June,7.7,104,Who Framed Roger Rabbit,1988
+Color,,,MysteryThriller,,October,7.7,107,The Vanishing,1988
+Color,23000000,GBP,BiographyDramaHistory,,November,7.7,209,The Last Emperor,1987
+Color,3600000,$,ComedyHorror,R,March,7.7,37,Evil Dead II,1987
+Color,35000000,$,ActionDramaHistoryWar,,December,7.7,153,Empire of the Sun,1987
+Color,30000000000,ITL,CrimeDramaMysteryThriller,,September,7.7,130,The Name of the Rose,1986
+Black and White,1100000,$,ComedyCrimeDrama,,September,7.7,107,Down by Law,1986
+Color,6000000,$,DramaMysteryThriller,R,September,7.7,120,Blue Velvet,1986
+Color,15000000,$,ComedyFantasyRomance,,March,7.7,82,The Purple Rose of Cairo,1985
+Color,4500000,$,ComedyCrimeDramaThriller,,September,7.7,97,After Hours,1985
+Black and White,,,Comedy,,July,7.7,79,Zelig,1983
+Color,16000000,$,Drama,,December,7.7,129,The Verdict,1982
+Color,11200000,$,ActionAdventureSci-Fi,PG,June,7.7,116,Star Trek II: The Wrath of Khan,1982
+Color,15000000,$,ActionAdventure,,October,7.7,93,First Blood,1982
+Color,6000000,$,Drama,,September,7.7,124,Ordinary People,1980
+Color,3500000,$,Comedy,,July,7.7,88,Airplane!,1980
+Color,5000000000,JPY,ActionAdventureAnimationFantasy,,December,7.7,100,Lupin the Third: Castle of Cagliostro,1979
+Color,325000,$,HorrorThriller,,October,7.7,101,Halloween,1978
+Color,,,DramaThriller,,May,7.7,126,The Tenant,1976
+Color,3000000,$,ComedyWar,,July,7.7,85,Love and Death,1975
+Color,5000000,$,ActionCrimeThriller,,November,7.7,104,The Taking of Pelham One Two Three,1974
+Color,2600000,$,ComedyWestern,,February,7.7,93,Blazing Saddles,1974
+Color,3000000,$,BiographyCrimeDramaThriller,,December,7.7,130,Serpico,1973
+Color,850000,$,ActionCrimeDramaThriller,R,August,7.7,86,Enter the Dragon,1973
+Color,2000000,$,AdventureDramaThriller,,August,7.7,109,Deliverance,1972
+Color,1800000,$,ActionCrimeDramaThriller,,October,7.7,104,The French Connection,1971
+Color,4000000,$,ActionCrimeThriller,,December,7.7,99,Dirty Harry,1971
+Color,1200000,$,Comedy,,May,7.7,105,The Odd Couple,1968
+Color,5400000,$,ActionAdventureWar,,October,7.7,150,The Dirty Dozen,1967
+Color,,,DramaRomance,R,March,7.7,100,Belle de Jour,1967
+Color,2000000,$,BiographyDramaHistory,G,December,7.7,120,A Man for All Seasons,1966
+Black and White,300000,$,DramaHorrorThriller,,October,7.7,105,Repulsion,1965
+Color,1720000,$,DramaHistoryWar,,June,7.7,138,Zulu,1964
+Color,3000000,$,ActionAdventureThriller,PG,January,7.7,110,Goldfinger,1964
+Color,2500000,$,DramaHorrorMysteryRomance,,March,7.7,119,The Birds,1963
+Black and White,3000000,$,DramaThriller,,May,7.7,106,Cape Fear,1962
+Color,135000,GBP,DramaHorrorThriller,,May,7.7,86,Peeping Tom,1960
+Color,2000000,$,ActionAdventureWestern,,October,7.7,128,The Magnificent Seven,1960
+Black and White,,,DramaHorror,,November,7.7,90,Les yeux sans visage,1960
+Black and White,417000,$,DramaHorrorSci-Fi,,February,7.7,80,Invasion of the Body Snatchers,1956
+Color,1500000,$,Drama,,September,7.7,111,Rebel Without a Cause,1955
+Color,,,ComedyCrime,,February,7.7,91,The Ladykillers,1955
+Black and White,2238813,$,ComedyDramaRomance,,October,7.7,113,Sabrina,1954
+Black and White,1200000,$,DramaSci-Fi,,September,7.7,92,The Day the Earth Stood Still,1951
+Black and White,,,DramaFilm-NoirRomanceThriller,,April,7.7,110,Gilda,1946
+Color,2280000,$,AnimationFamilyFantasyMusicMusical,,February,7.7,115,Fantasia,1940
+Black and White,50000,GBP,CrimeMysteryThriller,,August,7.7,86,The 39 Steps,1935
+Black and White,328033,$,HorrorSci-Fi,,November,7.7,71,The Invisible Man,1933
+Color,,,BiographyDramaHistoryThriller,PG-13,November,7.6,126,Dark Waters,2019
+Color,880000,$,DramaMysteryThriller,PG-13,August,7.6,102,Searching,2018
+Color,90000000,$,ComedyDrama,R,July,7.6,161,Once Upon a Time... In Hollywood,2019
+Color,,,Drama,R,February,7.6,127,Loveless,2017
+Color,2000000,$,Drama,R,October,7.6,111,The Florida Project,2017
+Color,25000000,$,BiographyCrimeDrama,PG-13,December,7.6,137,Just Mercy,2019
+Color,7000000,$,Drama,PG-13,April,7.6,101,Gifted,2017
+Color,6200000,$,AdventureComedyDrama,PG-13,August,7.6,97,The Peanut Butter Falcon,2019
+Color,,,CrimeDramaRomanceThriller,,June,7.6,138,Victoria,2015
+Color,200000000,$,ActionAdventureComedySci-Fi,PG-13,May,7.6,136,Guardians of the Galaxy Vol. 2,2017
+Color,34000000,$,ActionCrimeDramaMusicThriller,R,July,7.6,113,Baby Driver,2017
+Color,38000000,$,ActionBiographyDrama,PG-13,October,7.6,118,Only the Brave,2017
+Color,40000000,$,DramaHistoryThriller,PG-13,October,7.6,142,Bridge of Spies,2015
+Color,200000000,$,ActionAdventureAnimationComedyFamilySci-Fi,PG,June,7.6,118,Incredibles 2,2018
+Color,150000000,$,AdventureAnimationComedyFamilyFantasyMusical,PG,November,7.6,107,Moana,2016
+Color,30000000,$,ActionCrimeDramaMysteryThriller,R,September,7.6,121,Sicario,2015
+Color,35000000,$,DramaSport,PG-13,November,7.6,133,Creed,2015
+Color,,,CrimeDrama,R,December,7.6,140,Leviathan,2014
+Color,12000000,$,ActionCrimeDramaThrillerWestern,R,August,7.6,102,Hell or High Water,2016
+Color,12000000,$,BiographyComedyDrama,PG-13,November,7.6,98,Philomena,2013
+Color,170000000,$,ActionAdventureDramaSci-Fi,PG-13,July,7.6,130,Dawn of the Planet of the Apes,2014
+Color,,,MysteryThriller,,December,7.6,112,The Body,2012
+Color,1100000,$,ActionThriller,R,March,7.6,102,The Raid: Redemption,2011
+Color,7000000,$,ActionCrimeDramaThriller,R,September,7.6,109,End of Watch,2012
+Color,23000000,$,AdventureAnimationFamilyFantasy,,February,7.6,94,The Secret World of Arrietty,2010
+Color,36000000,$,DramaMusicRomance,R,October,7.6,148,A Star Is Born,2018
+Color,38000000,$,DramaWestern,PG-13,December,7.6,110,True Grit,2010
+Color,5500000,$,DramaRomance,R,April,7.6,118,In a Better World,2010
+Color,69000000,$,AnimationComedyCrimeFamilyFantasy,PG,July,7.6,87,Despicable Me,2010
+Color,8000000,$,ComedyDramaRomance,R,October,7.6,100,50/50,2011
+Color,30000000,$,ActionComedyCrime,R,April,7.6,117,Kick-Ass,2010
+Color,3500000,EUR,ActionAdventureCrimeDramaThriller,,November,7.6,113,Celda 211,2009
+Color,50000000,$,BiographyDramaSport,PG-13,September,7.6,133,Moneyball,2011
+Color,10000000,EUR,DramaHorrorThriller,R,October,7.6,120,The Skin I Live In,2011
+Color,23600000,$,AdventureComedyFantasyHorrorSci-Fi,R,October,7.6,88,Zombieland,2009
+Color,5000000,EUR,DramaThriller,,May,7.6,107,The Wave,2008
+Color,90000000,$,ActionAdventureMystery,PG-13,December,7.6,128,Sherlock Holmes,2009
+Color,29000000,$,BiographyDramaSport,PG-13,November,7.6,129,The Blind Side,2009
+Color,4000000,$,Drama,PG-13,April,7.6,104,The Visitor,2007
+Color,55000000,$,Drama,PG-13,December,7.6,123,Seven Pounds,2008
+Color,25000000,GBP,ActionCrimeDramaThriller,R,September,7.6,96,Eastern Promises,2007
+Color,70000000,$,AdventureFamilyFantasyRomance,PG-13,August,7.6,127,Stardust,2007
+Color,8000000,$,AdventureAnimationFamilyFantasy,,March,7.6,71,The Secret of Kells,2009
+Color,45000000,$,CrimeDramaMysteryThriller,R,March,7.6,129,Inside Man,2006
+Color,19000000,$,CrimeDramaMysteryThriller,R,October,7.6,114,Gone Baby Gone,2007
+Color,25000000,$,BiographyDramaMusicRomance,PG-13,June,7.6,140,La Vie En Rose,2007
+Color,,,ActionBiographyDramaSport,PG-13,September,7.6,141,Fearless,2006
+Color,16500000,$,DramaFantasyMysteryRomanceThriller,PG-13,August,7.6,110,The Illusionist,2006
+Color,695393,GBP,CrimeDramaThriller,,May,7.6,90,Dead Man's Shoes,2004
+Color,250000000,$,ActionAdventureFamilyFantasyMystery,PG,July,7.6,153,Harry Potter and the Half-Blood Prince,2009
+Color,65000000,$,ActionDrama,R,March,7.6,117,300,2006
+Color,15000000,$,DramaRomanceThriller,R,January,7.6,124,Match Point,2005
+Color,130000000,$,ActionDramaMysterySci-Fi,R,March,7.6,215,Watchmen,2009
+Color,50000000,$,ActionCrimeDrama,R,September,7.6,122,Lord of War,2005
+Color,1200000,$,HorrorMysteryThriller,R,October,7.6,103,Saw,2004
+Color,,,Drama,Unrated,May,7.6,107,Mysterious Skin,2004
+Color,56600000,$,DramaMysteryRomanceWar,R,November,7.6,133,A Very Long Engagement,2004
+Color,500000,$,ComedyDrama,R,October,7.6,89,The Station Agent,2003
+Color,20000000,$,CrimeDramaThriller,R,November,7.6,124,21 Grams,2003
+Color,4000000,$,CrimeDramaThriller,R,August,7.6,121,Sympathy for Mr. Vengeance,2002
+Color,5000000,$,Drama,R,December,7.6,108,25th Hour,2002
+Color,13000000,$,DramaSci-FiThriller,R,January,7.6,120,The Butterfly Effect,2004
+Color,22000000,$,Drama,PG-13,December,7.6,132,I Am Sam,2001
+Color,4500000,$,ActionAdventureDramaSci-FiThriller,,December,7.6,122,Battle Royale,2000
+Color,21000000,$,ComedyDrama,R,December,7.6,110,The Royal Tenenbaums,2001
+Color,2000000,$,Drama,R,March,7.6,106,Y Tu Mamá También,2001
+Color,125000000,$,AdventureFamilyFantasy,PG,November,7.6,159,Harry Potter and the Sorcerer's Stone,2001
+Color,17000000,$,HorrorMysteryThriller,PG-13,August,7.6,101,The Others,2001
+Color,68000000,$,DramaHistoryWar,R,March,7.6,131,Enemy at the Gates,2001
+Color,48000000,$,CrimeDramaThriller,R,December,7.6,190,Traffic,2000
+Color,102000000,$,ActionCrimeMysterySci-FiThriller,PG-13,June,7.6,145,Minority Report,2002
+Color,7000000,$,ComedyCrimeDrama,R,April,7.6,101,American Psycho,2000
+Color,52000000,$,DramaWar,R,December,7.6,215,The Thin Red Line,1998
+Color,90000000,$,AdventureAnimationFamilyFantasyMusicalWar,,June,7.6,88,Mulan,1998
+Color,18500000,$,AdventureComedyDrama,R,May,7.6,118,Fear and Loathing in Las Vegas,1998
+Color,27000000,$,FantasyMysterySci-FiThriller,R,March,7.6,111,Dark City,1998
+Color,15000000,$,MysteryThriller,R,February,7.6,134,Lost Highway,1997
+Color,90000000,$,ActionAdventureThriller,R,May,7.6,128,Die Hard with a Vengeance,1995
+Color,24000000,$,DramaRomance,PG-13,June,7.6,135,The Bridges of Madison County,1995
+Color,52000000,$,AdventureDramaHistory,PG,July,7.6,106,Apollo 13,1995
+Color,,,ComedyDramaRomance,R,June,7.6,92,Three Colors: White,1994
+Color,25000000,$,ActionCrimeDramaThriller,R,February,7.6,113,Falling Down,1993
+Color,6900000,$,Comedy,R,September,7.6,102,Dazed and Confused,1993
+Color,11000000,$,ComedyCrime,R,March,7.6,120,My Cousin Vinny,1992
+Color,,,AnimationDramaRomance,PG,January,7.6,118,Only Yesterday,1991
+Color,24000000,FRF,ComedyCrime,R,April,7.6,99,Delicatessen,1991
+Color,30000000,$,ActionAdventureThriller,,March,7.6,135,The Hunt for Red October,1990
+Color,18000000,$,ComedyFamily,,November,7.6,103,Home Alone,1990
+Color,54000000,$,CrimeDrama,R,December,7.6,138,The Godfather: Part III,1990
+Color,16000000,$,ComedyDramaRomance,,July,7.6,95,When Harry Met Sally...,1989
+Color,40000000,$,AnimationFamilyFantasyMusicalRomance,,November,7.6,83,The Little Mermaid,1989
+Color,12000000,$,ComedyCrime,,December,7.6,85,The Naked Gun: From the Files of Police Squad!,1988
+Color,,,ComedyDrama,,June,7.6,107,Withnail & I,1987
+Color,15000000,$,ActionCrimeThriller,,March,7.6,117,Lethal Weapon,1987
+Color,1500000,$,CrimeDramaThriller,,July,7.6,96,Blood Simple,1984
+Color,,,Drama,,December,7.6,109,On Golden Pond,1981
+Color,3000000,$,ActionAdventureSci-FiThriller,,May,7.6,87,Mad Max 2: The Road Warrior,1981
+Color,4000000,$,ActionCrimeThriller,R,February,7.6,92,The Warriors,1979
+Color,,,AdventureComedyFamilyMusical,,June,7.6,95,The Muppet Movie,1979
+Color,8000000,$,ActionBiographyCrimeDramaThriller,,June,7.6,112,Escape from Alcatraz,1979
+Color,,,AdventureAnimationDramaThriller,,November,7.6,91,Watership Down,1978
+Color,20000000,$,DramaSci-Fi,,September,7.6,138,Close Encounters of the Third Kind,1977
+Color,1700000,$,ComedyCrimeDramaMysteryThriller,,March,7.6,112,The Long Goodbye,1973
+Color,,,DramaWarWestern,,July,7.6,154,Duck You Sucker,1971
+Color,4000000,$,AdventureComedyWar,,June,7.6,144,Kelly's Heroes,1970
+Color,7700000,$,ActionAdventureWar,M,March,7.6,158,Where Eagles Dare,1968
+Color,4000000,$,AdventureAnimationFamilyMusical,G,July,7.6,78,The Jungle Book,1967
+Black and White,560000,$,ComedyMusical,G,December,7.6,87,A Hard Day's Night,1964
+Color,2500000,$,ComedyDramaRomance,,October,7.6,115,Breakfast at Tiffany's,1961
+Color,5400000,$,DramaWestern,G,November,7.6,201,Giant,1956
+Color,3100000,$,DramaWestern,,October,7.6,90,Shane,1953
+Black and White,1650000,$,DramaRomanceWar,,December,7.6,118,From Here to Eternity,1953
+Black and White,1590000,$,DramaWar,,January,7.6,97,Lifeboat,1944
+Color,,,ComedyDramaRomance,,July,6.6,101,Dil Bechara,2020
