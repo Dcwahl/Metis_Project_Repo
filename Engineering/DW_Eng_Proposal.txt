@@ -1,1 +1,19 @@
-Temporary
+Design:
+Design of this project will, broadly, be to create some sort of tangible end-product using tweet data as a datasource. End-product, while not currently decided, may be along the form of one of the following (though this is again subject to change):
+	1. A classification/clustering algorithm to visualise political ideology groupings of twitter users/tweets.
+	2. A widget/app which, when entering in a search term, will return the most frequent words associated with that particular search term from tweets. 
+
+Data:
+Data will come entirely from Twitter via the Twitter API called from within Python using Tweepy. Plan is to call Twitter API and directly store the return results locally in MongoDB.
+
+Algorithms:
+Not much to say here, but of course will be efficiently handling the large amounts of data appropriately. 
+
+Tools:
+Will be storing data locally in a MongoDB database.
+Then, depending on which project is decided to be done, will use either:
+	-Flask or Streamlit in order to power a Widget/App to interact with and return search terms
+	-Spark for the case of the clustering project for the handling of large amounts of data.
+
+Communication:
+Depending on the project, will consist of either visualisations (in the case of the clustering project) or a Widget/App with a GUI in the case of the search terms project. 
