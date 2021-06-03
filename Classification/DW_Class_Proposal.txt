@@ -1,0 +1,21 @@
+Design:
+Core of this project will be to create a multi-class Classification model that will be able to take handwritten alphabetic characters and, with reasonable accuracy, classify them as being their corresponding character. 
+
+Data:
+The characters will be sourced from the EMNIST dataset, a well known collection of handwritten letters. In particular, from this dataset, the ByClass split will (likely) be that particular set chosen. The ByClass split includes 814,255 characters total, corresponding to 62 classes (a through z and A through Z and 0-9)
+
+Algorithms:
+Model will go through proper model selection and evaluation to elect particular model. 
+
+Tools:
+Standard classification python tools will be used.
+Might use Streamlit for a front-end interface of some sort- (maybe have functionality in which a user can draw a character and have the model output its prediction?). 
+
+Communication:
+Findings will be shown as usual in a short presentation to Metis cohort in addition to being hosted on Github.
+
+
+
+As an aside, I get the impression that, due to the cleanliness and availability of the EMNIST data set, that I will be wanting for additional tools/functionality to play around with here beyond just the model itself. Am open to any suggestions! Some things I have in mind currently:
+- Might see if I can generalise the "model" further, in this case meaning some sort of tool that will take in a handwritten word or words and convert that into text automatically
+- The aforementioned front-end app that would allow a user to draw a character and have the model make a prediction on the drawn character
