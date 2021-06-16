@@ -1,0 +1,9 @@
+Question/need:
+This project will aim to explore differences in conversation between political ideologies on the Twitter platform. The goal is to gather data by searching on politically-related hashtags and do topic-modelling to see the differences between what dominates those conversations and how that differs between groups, if a difference exists. The end product will likely include visualisations of the clusters of conversation/topics.
+
+On Tools:
+Tweepy for acquisition, Mongo for storage, SKLearn likely for all the used ML tools. If, in the end, the result lends itself to interaction in some capacity, I will also host on Streamlit. Lastly, might also use VADER for unsupervised sentiment analysis, if the project lends itself to that. 
+
+An MVP will look like:
+Pipeline should be finished to do the following: Data tokenised and t-NSE applied to form a two-feature space for visualisation, and possibly also do a networking algorithm as well if I can figure it out.
+
